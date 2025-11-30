@@ -111,7 +111,6 @@ electronic-music-bi-project/
 ### Spotify Analytics
 ![Spotify Dashboard](https://raw.githubusercontent.com/nicenglebert/electronic-music-bi-project/main/screenshots/Spotify_KPI_Dashboard.PNG)
 
-
 ---
 
 ## Key Insights
@@ -194,6 +193,7 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
 
