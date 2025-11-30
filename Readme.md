@@ -112,6 +112,25 @@ electronic-music-bi-project/
 ### Spotify Analytics
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/cfef9fef-c02e-4d2e-a8dd-8a929ea94788" />
 
+## Key Insights
+
+### 🎧 Spotify Trends
+- House and Deep House are the most represented genres in the dataset.
+- The average BPM is around **127**, consistent with techno/house norms.
+- Most tracks are between **3 and 5 minutes**, with techno tracks being longer on average.
+- Popularity differs significantly by genre, with melodic genres performing better.
+
+### 🎪 Festival Analytics
+- Electronic festivals are mainly concentrated between **June and August**.
+- Average ticket price is approximately **€97**.
+- Germany, France, and UK host the highest number of festivals.
+- The most common genres are **Electro, House, and Techno**.
+- Average attendance per festival is around **32,000 people**.
+
+### 🔗 Cross-domain Observations
+- High-popularity genres on Spotify are also the most represented at festivals.
+- BPM averages are consistent between recorded music and live performances.
+- Electronic music shows strong seasonal and geographic concentration in Europe.
 
 
 
@@ -173,6 +192,7 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
 
