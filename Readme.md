@@ -99,17 +99,17 @@ electronic-music-bi-project/
 - Ticket price analysis
 - Genre segmentation
 
+
 ## 📊 Dashboards Preview
 
 ### Executive Summary
-[![Executive Summary][screenshots/Executive_Summary.PNG](https://raw.githubusercontent.com/nicenglebert/electronic-music-bi-project/main/screenshots/Executive_Summary.PNG
-)
+![Executive Summary](https://raw.githubusercontent.com/nicenglebert/electronic-music-bi-project/main/screenshots/Executive_Summary.PNG)
 
 ### Festivals Analytics
-![Festivals Dashboard](screenshots/Festivals_KPI_Dashboard.PNG)
+![Festivals Dashboard](https://raw.githubusercontent.com/nicenglebert/electronic-music-bi-project/main/screenshots/Festivals_KPI_Dashboard.PNG)
 
 ### Spotify Analytics
-![Spotify Dashboard](screenshots/Spotify_KPI_Dashboard.PNG)
+![Spotify Dashboard](https://raw.githubusercontent.com/nicenglebert/electronic-music-bi-project/main/screenshots/Spotify_KPI_Dashboard.PNG)
 
 
 ---
@@ -194,6 +194,7 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
 
