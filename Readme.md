@@ -103,7 +103,6 @@ electronic-music-bi-project/
 ## 📊 Dashboards Preview
 
 ### Executive Summary
-### Executive Summary
 ![Executive Summary](https://raw.githubusercontent.com/nicenglebert/electronic-music-bi-project/main/screenshots/Executive_Summary.PNG)
 
 ### Festivals Analytics
@@ -111,7 +110,7 @@ electronic-music-bi-project/
 
 ### Spotify Analytics
 ![Spotify Dashboard](https://raw.githubusercontent.com/nicenglebert/electronic-music-bi-project/main/screenshots/Spotify_KPI_Dashboard.PNG)
----
+
 
 ## Key Insights
 
@@ -193,6 +192,7 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
 
