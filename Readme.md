@@ -45,7 +45,8 @@ POWER BI DASHBOARDS
 - Analytical dashboards powered by DAX measures
 
 📐 Architecture diagram available here:  
-`BI_Architecture.PNG`
+<img width="504" height="520" alt="image" src="https://github.com/user-attachments/assets/bcaf7674-675d-434f-8caf-7e0f5190dfc1" />
+
 
 ---
 
@@ -169,6 +170,7 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
 
