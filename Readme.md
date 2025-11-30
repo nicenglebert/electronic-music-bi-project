@@ -1,107 +1,153 @@
-# Electronic Music BI Project
+# Electronic Music Business Intelligence Project 🎧📊
 
-## Overview
-This project is a Business Intelligence solution built to analyze electronic music trends using real-world data from Spotify and international music festivals.
+A complete **Business Intelligence project** analyzing electronic music trends using Spotify data and European festival datasets.  
+This project demonstrates a full **data pipeline** from raw CSV data to interactive dashboards using Power BI and dimensional modeling.
 
-The goal of the project is to apply a complete BI workflow:
-- Data extraction
-- Data transformation
-- Dimensional modeling
-- Dashboard creation
-- Business analysis
+---
 
-## Architecture
+## 🚀 Project Overview
 
-![ETL Architecture](BI_Architecture.PNG)
+This project explores electronic music through two complementary perspectives:
 
-## Data Sources
+- 🎵 **Music production & popularity** (Spotify dataset)
+- 🎪 **Festivals & events analytics** (Festival Alarm scraping)
 
-### Spotify (Kaggle)
-CSV dataset containing:
-- Track metadata
-- Artist
-- Genre
-- BPM (Tempo)
-- Popularity
-- Duration
+The goal is to demonstrate:
+- Data transformation using Power Query
+- Data warehouse design (star schema)
+- KPI calculations (DAX)
+- Interactive dashboards
+- Analytical storytelling
 
-### Festivals (Web Scraping)
-Scraped via WebScraper.io from:
-https://www.festival-alarm.com
+---
 
-Contains:
-- Festival name
-- Country / City
-- Genres
-- Visitors
-- Ticket prices
-- Event dates
+## 🧱 Architecture & Data Pipeline
 
-## Data Pipeline
-
-```text
-RAW DATA (CSV)
-      ↓
-STAGING AREA
-(cleaning, formatting, normalization)
-      ↓
-DATA WAREHOUSE
-(dimensions & fact tables)
-      ↓
+SOURCE (CSV / Scraping)
+↓ Extract
+STAGING AREA (Power Query cleaning)
+↓ Transform
+DATA WAREHOUSE (Star Schema)
+↓ Load & Connect
 POWER BI DASHBOARDS
-(analytics & KPIs)
 
-Data Modeling
 
-Star Schema structure with:
+🧠 This project follows a classical BI architecture:
+- Extract → Transform → Load
+- Staging layer for cleaning & normalization
+- Dimensional model (facts & dimensions)
+- Analytical dashboards powered by DAX measures
 
-Fact tables: Tracks, Festivals
+📐 Architecture diagram available here:  
+`BI_Architecture.PNG`
 
-Dimension tables: Time, Genre, City, Country, Artist
+---
 
-Schema available in:
-data/model/Star_Schema.PNG
+## 📁 Repository Structure
 
-Dashboards
-Executive Summary
+electronic-music-bi-project/
+│
+├── dashboards/
+│ └── powerbi/
+│ └── Projet_Techno_Nicolas_Englebert.pbix
+│
+├── data/
+│ ├── raw/ → Original CSV sources
+│ ├── staging/ → Cleaned datasets (Power Query export)
+│ └── model/ → Star schema tables (Facts & Dimensions)
+│
+├── docs/
+│ ├── Executive_Summary_Project_BI.pdf
+│ └── Projet BI Musiques électroniques & Festivals.pptx
+│
+├── screenshots/
+│ ├── Executive_Summary.PNG
+│ ├── Festivals KPI Dashboard.PNG
+│ ├── Spotify KPI Dashboard.PNG
+│ ├── model_view.PNG
+│
+├── BI_Architecture.PNG
+├── Methodology.md
+└── README.md
 
-Spotify Analytics
 
-Festivals Analytics
+---
 
-Deliverables
+## 📊 Key Dashboards
 
-Power BI Dashboard (.pbix)
+### Spotify Analytics
+- Popularity by genre
+- BPM distribution
+- Track volume by year
+- Average duration
+- Genre dominance
 
-Executive Summary (PDF)
+### Festival Analytics
+- Total festivals by country
+- Visitors per genre
+- Monthly seasonality
+- Ticket price analysis
+- Genre segmentation
 
-Architecture slide deck (PPT)
+📷 Dashboard previews available in `/screenshots`
 
-Cleaned datasets
+---
 
-Star schema
+## 📈 Key Insights
 
-Methodology
+- 🎧 Most dominant genres: **House, Tech House & Electro**
+- ⚡ Average BPM ≈ **127**
+- ⏱ Average track duration ≈ **4 minutes**
+- 🎟️ Ticket prices ≈ **€98 average**
+- 👥 Attendance ≈ **32k visitors per festival**
+- ☀️ Festivals have strong seasonality (summer peak)
 
-Tools & Technologies
+---
 
-Power BI
+## 🔧 Technologies Used
 
-Power Query (ETL)
+- Power BI Desktop
+- Power Query (ETL)
+- DAX
+- CSV datasets
+- GitHub for portfolio
+- WebScraper.io
+- Star schema modeling
 
-Data Warehouse modeling
+---
 
-SQL concepts
+## ▶️ How to Run the Project
 
-CSV / Web scraping
+1. Clone or download this repository
+2. Open the `.pbix` file in Power BI
+3. Refresh data connections (if needed)
+4. Explore dashboards and filters
 
-GitHub portfolio
+---
 
-Author
+## 📜 Documentation
 
-Nicolas Englebert
-Business Intelligence & Data Analytics student
-LinkedIn: https://www.linkedin.com/in/nicolas-englebert-2original/
+- Executive Summary (PDF)
+- Presentation slides
+- Methodology.md (ETL & design explanation)
+- Star schema diagram
 
+---
+
+## 👤 Author
+
+**Nicolas Englebert**  
+Business Intelligence / Data Analytics  
+📎 LinkedIn: https://www.linkedin.com/in/nicolas-englebert-2original  
+📁 GitHub: https://github.com/nicenglebert
+
+---
+
+## ⚠️ Disclaimer
+
+All datasets are used for **educational and portfolio purposes only**.  
+Music data belongs to respective rights holders.
+
+---
 
 
