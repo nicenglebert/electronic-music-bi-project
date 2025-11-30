@@ -102,15 +102,16 @@ electronic-music-bi-project/
 ## 📊 Dashboards Preview
 
 ### Executive Summary
-<img width="1920" height="1047" alt="image" src="https://github.com/user-attachments/assets/1230e45c-2ad9-4233-8857-0d9ca629ee36" />
+<img width="1920" height="1047" alt="image" src="https://github.com/user-attachments/assets/3ef0b3b7-61eb-4222-b46f-5bf580f86914" />
 
 
 ### Festivals Analytics
-<img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/654bdfff-2759-4ed3-adca-53e09011ee5e" />
+<img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/926c42c7-22c6-461a-babb-f4a4dba8db8e" />
 
 
 ### Spotify Analytics
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/cfef9fef-c02e-4d2e-a8dd-8a929ea94788" />
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/ae9fc195-9117-4b72-95f4-a10e54963343" />
+
 
 ## Key Insights
 
@@ -192,6 +193,7 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
 
