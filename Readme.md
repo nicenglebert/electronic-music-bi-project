@@ -102,10 +102,12 @@ electronic-music-bi-project/
 
 
 ### Festivals Analytics
-electronic-music-bi-project/screenshots/Festivals_KPI_Dashboard.PNG
+<img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/654bdfff-2759-4ed3-adca-53e09011ee5e" />
+
 
 ### Spotify Analytics
-![Spotify Dashboard](electronic-music-bi-project/screenshots/Spotify_KPI_Dashboard.PNG)
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/cfef9fef-c02e-4d2e-a8dd-8a929ea94788" />
+
 
 
 
@@ -167,6 +169,7 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
 
