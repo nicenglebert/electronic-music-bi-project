@@ -52,30 +52,33 @@ POWER BI DASHBOARDS
 
 ## 📁 Repository Structure
 
+```text
 electronic-music-bi-project/
 │
 ├── dashboards/
-│ └── powerbi/
-│ └── Projet_Techno_Nicolas_Englebert.pbix
+│   └── powerbi/
+│       └── Projet_Techno_Nicolas_Englebert.pbix
 │
 ├── data/
-│ ├── raw/ → Original CSV sources
-│ ├── staging/ → Cleaned datasets (Power Query export)
-│ └── model/ → Star schema tables (Facts & Dimensions)
+│   ├── raw/              # Original CSV sources (Kaggle + Scraping)
+│   ├── staging/          # Cleaned datasets (Power Query export)
+│   └── model/            # Star schema tables (Facts & Dimensions)
 │
 ├── docs/
-│ ├── Executive_Summary_Project_BI.pdf
-│ └── Projet BI Musiques électroniques & Festivals.pptx
+│   ├── Executive_Summary_Project_BI.pdf
+│   └── Projet BI Musiques électroniques & Festivals.pptx
 │
 ├── screenshots/
-│ ├── Executive_Summary.PNG
-│ ├── Festivals KPI Dashboard.PNG
-│ ├── Spotify KPI Dashboard.PNG
-│ ├── model_view.PNG
+│   ├── Executive_Summary.PNG
+│   ├── Festivals KPI Dashboard.PNG
+│   ├── Spotify KPI Dashboard.PNG
+│   ├── model_view.PNG
+│   └── BI_Architecture.PNG
 │
-├── BI_Architecture.PNG
+├── README.md
 ├── Methodology.md
-└── README.md
+└── BI_Architecture.PNG
+
 
 
 ---
@@ -170,6 +173,7 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
 
