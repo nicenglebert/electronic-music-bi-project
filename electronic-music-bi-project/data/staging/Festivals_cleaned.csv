@@ -1,0 +1,702 @@
+FestivalID;Festival Name;TimeID;Date;GenreID;Genre;Price (eur excl. fees);Duration (days);Where;Visitors;CityID;City;CountryID;Country;Country_Code
+1;2Takt Festival;29;08-08-25;19;Trance;6999;3;outdoor;null;80;Nattheim;5;Germany;DE
+1;2Takt Festival;29;08-08-25;18;Techno;6999;3;outdoor;null;80;Nattheim;5;Germany;DE
+1;2Takt Festival;29;08-08-25;9;House;6999;3;outdoor;null;80;Nattheim;5;Germany;DE
+2;3000 Grad Festival;29;08-08-25;20;Dance;129;3;outdoor;null;29;Feldberg;5;Germany;DE
+2;3000 Grad Festival;29;08-08-25;3;Electro;129;3;outdoor;null;29;Feldberg;5;Germany;DE
+2;3000 Grad Festival;29;08-08-25;19;Trance;129;3;outdoor;null;29;Feldberg;5;Germany;DE
+2;3000 Grad Festival;29;08-08-25;4;Electronic Dance Music (EDM);129;3;outdoor;null;29;Feldberg;5;Germany;DE
+3;6*-Festival;40;12-06-25;3;Electro;22;3;outdoor;null;5;Bayreuth;5;Germany;DE
+3;6*-Festival;40;12-06-25;20;Dance;22;3;outdoor;null;5;Bayreuth;5;Germany;DE
+3;6*-Festival;40;12-06-25;18;Techno;22;3;outdoor;null;5;Bayreuth;5;Germany;DE
+3;6*-Festival;40;12-06-25;1;Art & culture;22;3;outdoor;null;5;Bayreuth;5;Germany;DE
+4;Affenkäfig Festival;41;12-06-26;3;Electro;69;3;outdoor;5000;75;Mendig;5;Germany;DE
+4;Affenkäfig Festival;36;11-07-25;3;Electro;69;3;outdoor;null;75;Mendig;5;Germany;DE
+4;Affenkäfig Festival;41;12-06-26;20;Dance;69;3;outdoor;5000;75;Mendig;5;Germany;DE
+4;Affenkäfig Festival;36;11-07-25;20;Dance;69;3;outdoor;null;75;Mendig;5;Germany;DE
+5;AgratAmAgatha Festival;2;01-08-25;10;Other;null;1;outdoor;null;101;Riedenburg;5;Germany;DE
+5;AgratAmAgatha Festival;2;01-08-25;2;Disco;null;1;outdoor;null;101;Riedenburg;5;Germany;DE
+5;AgratAmAgatha Festival;2;01-08-25;3;Electro;null;1;outdoor;null;101;Riedenburg;5;Germany;DE
+5;AgratAmAgatha Festival;2;01-08-25;16;Ska;null;1;outdoor;null;101;Riedenburg;5;Germany;DE
+5;AgratAmAgatha Festival;2;01-08-25;4;Electronic Dance Music (EDM);null;1;outdoor;null;101;Riedenburg;5;Germany;DE
+5;AgratAmAgatha Festival;2;01-08-25;14;Reggae;null;1;outdoor;null;101;Riedenburg;5;Germany;DE
+5;AgratAmAgatha Festival;2;01-08-25;1;Art & culture;null;1;outdoor;null;101;Riedenburg;5;Germany;DE
+6;Airbeat One Festival;28;08-07-26;20;Dance;17599;5;outdoor;65000;83;Neustadt-Glewe;5;Germany;DE
+6;Airbeat One Festival;28;08-07-26;5;Goa;17599;5;outdoor;65000;83;Neustadt-Glewe;5;Germany;DE
+6;Airbeat One Festival;30;09-07-25;9;House;null;5;outdoor;null;83;Neustadt-Glewe;5;Germany;DE
+6;Airbeat One Festival;28;08-07-26;19;Trance;17599;5;outdoor;65000;83;Neustadt-Glewe;5;Germany;DE
+6;Airbeat One Festival;30;09-07-25;3;Electro;null;5;outdoor;null;83;Neustadt-Glewe;5;Germany;DE
+6;Airbeat One Festival;30;09-07-25;20;Dance;null;5;outdoor;null;83;Neustadt-Glewe;5;Germany;DE
+6;Airbeat One Festival;28;08-07-26;7;Hardcore (Electro);17599;5;outdoor;65000;83;Neustadt-Glewe;5;Germany;DE
+6;Airbeat One Festival;28;08-07-26;18;Techno;17599;5;outdoor;65000;83;Neustadt-Glewe;5;Germany;DE
+6;Airbeat One Festival;28;08-07-26;4;Electronic Dance Music (EDM);17599;5;outdoor;65000;83;Neustadt-Glewe;5;Germany;DE
+6;Airbeat One Festival;28;08-07-26;3;Electro;17599;5;outdoor;65000;83;Neustadt-Glewe;5;Germany;DE
+6;Airbeat One Festival;28;08-07-26;9;House;17599;5;outdoor;65000;83;Neustadt-Glewe;5;Germany;DE
+7;Anderewelt. Festival;27;07-08-25;12;Punk;87;4;outdoor;null;113;Staufenberg;5;Germany;DE
+7;Anderewelt. Festival;27;07-08-25;15;Rock;87;4;outdoor;null;113;Staufenberg;5;Germany;DE
+7;Anderewelt. Festival;27;07-08-25;1;Art & culture;87;4;outdoor;null;113;Staufenberg;5;Germany;DE
+7;Anderewelt. Festival;27;07-08-25;11;Pop;87;4;outdoor;null;113;Staufenberg;5;Germany;DE
+7;Anderewelt. Festival;27;07-08-25;3;Electro;87;4;outdoor;null;113;Staufenberg;5;Germany;DE
+8;Bachblyten Festival;84;25-07-25;19;Trance;null;3;outdoor;null;55;Husum;5;Germany;DE
+8;Bachblyten Festival;84;25-07-25;4;Electronic Dance Music (EDM);null;3;outdoor;null;55;Husum;5;Germany;DE
+8;Bachblyten Festival;84;25-07-25;5;Goa;null;3;outdoor;null;55;Husum;5;Germany;DE
+8;Bachblyten Festival;84;25-07-25;3;Electro;null;3;outdoor;null;55;Husum;5;Germany;DE
+9;Backyard Festival;20;06-06-25;19;Trance;null;2;outdoor;null;117;Triensbach;5;Germany;DE
+9;Backyard Festival;20;06-06-25;18;Techno;null;2;outdoor;null;117;Triensbach;5;Germany;DE
+9;Backyard Festival;20;06-06-25;5;Goa;null;2;outdoor;null;117;Triensbach;5;Germany;DE
+9;Backyard Festival;20;06-06-25;9;House;null;2;outdoor;null;117;Triensbach;5;Germany;DE
+9;Backyard Festival;20;06-06-25;3;Electro;null;2;outdoor;null;117;Triensbach;5;Germany;DE
+9;Backyard Festival;20;06-06-25;4;Electronic Dance Music (EDM);null;2;outdoor;null;117;Triensbach;5;Germany;DE
+10;Behind the Moon Music Festival;42;12-07-25;9;House;null;1;outdoor;null;108;Schöllkrippen;5;Germany;DE
+10;Behind the Moon Music Festival;42;12-07-25;20;Dance;null;1;outdoor;null;108;Schöllkrippen;5;Germany;DE
+10;Behind the Moon Music Festival;42;12-07-25;3;Electro;null;1;outdoor;null;108;Schöllkrippen;5;Germany;DE
+10;Behind the Moon Music Festival;37;11-07-26;20;Dance;null;1;outdoor;1000;108;Schöllkrippen;5;Germany;DE
+10;Behind the Moon Music Festival;37;11-07-26;3;Electro;null;1;outdoor;1000;108;Schöllkrippen;5;Germany;DE
+10;Behind the Moon Music Festival;42;12-07-25;4;Electronic Dance Music (EDM);null;1;outdoor;null;108;Schöllkrippen;5;Germany;DE
+10;Behind the Moon Music Festival;37;11-07-26;4;Electronic Dance Music (EDM);null;1;outdoor;1000;108;Schöllkrippen;5;Germany;DE
+10;Behind the Moon Music Festival;37;11-07-26;9;House;null;1;outdoor;1000;108;Schöllkrippen;5;Germany;DE
+11;Between the Seas Festival;40;12-06-25;3;Electro;669;3;outdoor;null;59;Kropp;5;Germany;DE
+11;Between the Seas Festival;40;12-06-25;20;Dance;669;3;outdoor;null;59;Kropp;5;Germany;DE
+11;Between the Seas Festival;40;12-06-25;19;Trance;669;3;outdoor;null;59;Kropp;5;Germany;DE
+11;Between the Seas Festival;35;11-06-26;19;Trance;105;3;outdoor;8000;59;Kropp;5;Germany;DE
+11;Between the Seas Festival;35;11-06-26;4;Electronic Dance Music (EDM);105;3;outdoor;8000;59;Kropp;5;Germany;DE
+11;Between the Seas Festival;40;12-06-25;4;Electronic Dance Music (EDM);669;3;outdoor;null;59;Kropp;5;Germany;DE
+11;Between the Seas Festival;35;11-06-26;3;Electro;105;3;outdoor;8000;59;Kropp;5;Germany;DE
+11;Between the Seas Festival;35;11-06-26;20;Dance;105;3;outdoor;8000;59;Kropp;5;Germany;DE
+12;Big Beach Spring Break;95;29-05-25;9;House;null;4;outdoor;null;85;Novalja;3;Croatia;HR
+12;Big Beach Spring Break;95;29-05-25;4;Electronic Dance Music (EDM);null;4;outdoor;null;85;Novalja;3;Croatia;HR
+12;Big Beach Spring Break;74;22-05-26;4;Electronic Dance Music (EDM);null;4;outdoor;26000;85;Novalja;3;Croatia;HR
+12;Big Beach Spring Break;74;22-05-26;9;House;null;4;outdoor;26000;85;Novalja;3;Croatia;HR
+13;Blacklist Festival;38;11-10-25;10;Other;45;2;indoor;null;87;Oberhausen;5;Germany;DE
+13;Blacklist Festival;38;11-10-25;3;Electro;45;2;indoor;null;87;Oberhausen;5;Germany;DE
+14;Blade Festival;46;13-06-25;3;Electro;null;3;outdoor;null;15;Colditz;5;Germany;DE
+14;Blade Festival;46;13-06-25;19;Trance;null;3;outdoor;null;15;Colditz;5;Germany;DE
+14;Blade Festival;46;13-06-25;4;Electronic Dance Music (EDM);null;3;outdoor;null;15;Colditz;5;Germany;DE
+15;Bluym Beats Festival;33;10-05-25;9;House;39;1;outdoor;null;107;Schweinfurt;5;Germany;DE
+15;Bluym Beats Festival;33;10-05-25;3;Electro;39;1;outdoor;null;107;Schweinfurt;5;Germany;DE
+16;Breakzone Festival;57;16-08-25;10;Other;28;1;outdoor;null;60;Köln;5;Germany;DE
+16;Breakzone Festival;57;16-08-25;9;House;28;1;outdoor;null;60;Köln;5;Germany;DE
+16;Breakzone Festival;57;16-08-25;3;Electro;28;1;outdoor;null;60;Köln;5;Germany;DE
+17;Buchbusch Festival;72;21-06-25;18;Techno;30;1;outdoor;null;91;Pforzheim;5;Germany;DE
+17;Buchbusch Festival;72;21-06-25;4;Electronic Dance Music (EDM);30;1;outdoor;null;91;Pforzheim;5;Germany;DE
+17;Buchbusch Festival;72;21-06-25;3;Electro;30;1;outdoor;null;91;Pforzheim;5;Germany;DE
+17;Buchbusch Festival;71;20-06-26;18;Techno;30;1;outdoor;3000;91;Pforzheim;5;Germany;DE
+17;Buchbusch Festival;71;20-06-26;3;Electro;30;1;outdoor;3000;91;Pforzheim;5;Germany;DE
+17;Buchbusch Festival;71;20-06-26;4;Electronic Dance Music (EDM);30;1;outdoor;3000;91;Pforzheim;5;Germany;DE
+18;Bucht der Träumer* Festival;52;14-08-25;19;Trance;229;5;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+18;Bucht der Träumer* Festival;52;14-08-25;3;Electro;229;5;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+19;Burning Beach Festival;70;20-06-25;19;Trance;null;3;outdoor;null;95;Pleinfeld;5;Germany;DE
+19;Burning Beach Festival;70;20-06-25;5;Goa;null;3;outdoor;null;95;Pleinfeld;5;Germany;DE
+19;Burning Beach Festival;70;20-06-25;7;Hardcore (Electro);null;3;outdoor;null;95;Pleinfeld;5;Germany;DE
+19;Burning Beach Festival;70;20-06-25;3;Electro;null;3;outdoor;null;95;Pleinfeld;5;Germany;DE
+19;Burning Beach Festival;67;19-06-26;19;Trance;null;3;outdoor;null;95;Pleinfeld;5;Germany;DE
+19;Burning Beach Festival;67;19-06-26;7;Hardcore (Electro);null;3;outdoor;null;95;Pleinfeld;5;Germany;DE
+19;Burning Beach Festival;67;19-06-26;3;Electro;null;3;outdoor;null;95;Pleinfeld;5;Germany;DE
+19;Burning Beach Festival;67;19-06-26;5;Goa;null;3;outdoor;null;95;Pleinfeld;5;Germany;DE
+20;Burning Mountain Festival;87;26-06-25;18;Techno;181;4;outdoor;null;129;Zernez;7;Switzerland;CH
+20;Burning Mountain Festival;87;26-06-25;19;Trance;181;4;outdoor;null;129;Zernez;7;Switzerland;CH
+20;Burning Mountain Festival;83;25-06-26;3;Electro;null;4;outdoor;6000;129;Zernez;7;Switzerland;CH
+20;Burning Mountain Festival;87;26-06-25;5;Goa;181;4;outdoor;null;129;Zernez;7;Switzerland;CH
+20;Burning Mountain Festival;83;25-06-26;19;Trance;null;4;outdoor;6000;129;Zernez;7;Switzerland;CH
+20;Burning Mountain Festival;83;25-06-26;18;Techno;null;4;outdoor;6000;129;Zernez;7;Switzerland;CH
+20;Burning Mountain Festival;87;26-06-25;3;Electro;181;4;outdoor;null;129;Zernez;7;Switzerland;CH
+20;Burning Mountain Festival;83;25-06-26;5;Goa;null;4;outdoor;6000;129;Zernez;7;Switzerland;CH
+21;Castle Beats Festival;75;22-08-25;9;House;40;2;outdoor;null;11;Brodenbach;5;Germany;DE
+21;Castle Beats Festival;75;22-08-25;3;Electro;40;2;outdoor;null;11;Brodenbach;5;Germany;DE
+21;Castle Beats Festival;75;22-08-25;18;Techno;40;2;outdoor;null;11;Brodenbach;5;Germany;DE
+22;Chimaera Festival;55;15-08-25;18;Techno;153;3;outdoor;null;35;Friedland;5;Germany;DE
+22;Chimaera Festival;55;15-08-25;11;Pop;153;3;outdoor;null;35;Friedland;5;Germany;DE
+22;Chimaera Festival;55;15-08-25;9;House;153;3;outdoor;null;35;Friedland;5;Germany;DE
+22;Chimaera Festival;55;15-08-25;1;Art & culture;153;3;outdoor;null;35;Friedland;5;Germany;DE
+22;Chimaera Festival;55;15-08-25;19;Trance;153;3;outdoor;null;35;Friedland;5;Germany;DE
+22;Chimaera Festival;55;15-08-25;2;Disco;153;3;outdoor;null;35;Friedland;5;Germany;DE
+23;Circle of Leaves;29;08-08-25;3;Electro;83;3;outdoor;null;88;Oberzent;5;Germany;DE
+23;Circle of Leaves;29;08-08-25;4;Electronic Dance Music (EDM);83;3;outdoor;null;88;Oberzent;5;Germany;DE
+24;Convent Festival;32;09-08-25;10;Other;null;1;outdoor;null;4;Bad Schussenried;5;Germany;DE
+24;Convent Festival;32;09-08-25;3;Electro;null;1;outdoor;null;4;Bad Schussenried;5;Germany;DE
+24;Convent Festival;32;09-08-25;9;House;null;1;outdoor;null;4;Bad Schussenried;5;Germany;DE
+25;Crown of Sound;23;06-09-25;18;Techno;6714;1;outdoor;null;68;Ludwigsburg;5;Germany;DE
+26;Danube Festival;75;22-08-25;3;Electro;445;3;outdoor;null;6;Berlin;5;Germany;DE
+26;Danube Festival;75;22-08-25;9;House;445;3;outdoor;null;6;Berlin;5;Germany;DE
+27;Day&Night Festival;51;14-07-25;9;House;55;4;outdoor;null;85;Novalja;3;Croatia;HR
+27;Day&Night Festival;51;14-07-25;4;Electronic Dance Music (EDM);55;4;outdoor;null;85;Novalja;3;Croatia;HR
+28;Defqon.1 Festival;87;26-06-25;19;Trance;null;4;outdoor;null;7;Biddinghuizen;6;Netherlands;NL
+28;Defqon.1 Festival;87;26-06-25;20;Dance;null;4;outdoor;null;7;Biddinghuizen;6;Netherlands;NL
+28;Defqon.1 Festival;83;25-06-26;20;Dance;null;4;outdoor;60000;7;Biddinghuizen;6;Netherlands;NL
+28;Defqon.1 Festival;83;25-06-26;19;Trance;null;4;outdoor;60000;7;Biddinghuizen;6;Netherlands;NL
+28;Defqon.1 Festival;87;26-06-25;4;Electronic Dance Music (EDM);null;4;outdoor;null;7;Biddinghuizen;6;Netherlands;NL
+28;Defqon.1 Festival;83;25-06-26;4;Electronic Dance Music (EDM);null;4;outdoor;60000;7;Biddinghuizen;6;Netherlands;NL
+29;Delta Festival;91;27-08-25;19;Trance;null;5;outdoor;null;72;Marseille;4;France;FR
+29;Delta Festival;91;27-08-25;9;House;null;5;outdoor;null;72;Marseille;4;France;FR
+29;Delta Festival;91;27-08-25;3;Electro;null;5;outdoor;null;72;Marseille;4;France;FR
+30;Docklands Festival;21;06-06-26;3;Electro;49;1;outdoor;15000;79;Münster;5;Germany;DE
+30;Docklands Festival;103;31-05-25;3;Electro;39;1;outdoor;null;79;Münster;5;Germany;DE
+31;Dorf of Tomorrow Festival;4;02-08-25;7;Hardcore (Electro);null;1;outdoor;null;77;Möckmu?hl-Korb;5;Germany;DE
+31;Dorf of Tomorrow Festival;4;02-08-25;5;Goa;null;1;outdoor;null;77;Möckmu?hl-Korb;5;Germany;DE
+31;Dorf of Tomorrow Festival;4;02-08-25;3;Electro;null;1;outdoor;null;77;Möckmu?hl-Korb;5;Germany;DE
+31;Dorf of Tomorrow Festival;4;02-08-25;9;House;null;1;outdoor;null;77;Möckmu?hl-Korb;5;Germany;DE
+31;Dorf of Tomorrow Festival;4;02-08-25;20;Dance;null;1;outdoor;null;77;Möckmu?hl-Korb;5;Germany;DE
+31;Dorf of Tomorrow Festival;4;02-08-25;19;Trance;null;1;outdoor;null;77;Möckmu?hl-Korb;5;Germany;DE
+31;Dorf of Tomorrow Festival;4;02-08-25;10;Other;null;1;outdoor;null;77;Möckmu?hl-Korb;5;Germany;DE
+32;EONLY Festival;44;13-03-26;3;Electro;92;2;indoor;null;81;Neukieritzsch;5;Germany;DE
+32;EONLY Festival;48;14-03-25;3;Electro;155;2;indoor;null;81;Neukieritzsch;5;Germany;DE
+32;EONLY Festival;44;13-03-26;6;Gothic;92;2;indoor;null;81;Neukieritzsch;5;Germany;DE
+32;EONLY Festival;48;14-03-25;6;Gothic;155;2;indoor;null;81;Neukieritzsch;5;Germany;DE
+33;Echelon Open Air & Indoor Festival;55;15-08-25;7;Hardcore (Electro);1452;2;unknown;null;3;Bad Aibling;5;Germany;DE
+33;Echelon Open Air & Indoor Festival;55;15-08-25;3;Electro;1452;2;unknown;null;3;Bad Aibling;5;Germany;DE
+34;Electric Horizon Festival;57;16-08-25;7;Hardcore (Electro);33;1;outdoor;null;94;Plankstadt;5;Germany;DE
+34;Electric Horizon Festival;57;16-08-25;3;Electro;33;1;outdoor;null;94;Plankstadt;5;Germany;DE
+34;Electric Horizon Festival;57;16-08-25;19;Trance;33;1;outdoor;null;94;Plankstadt;5;Germany;DE
+34;Electric Horizon Festival;57;16-08-25;18;Techno;33;1;outdoor;null;94;Plankstadt;5;Germany;DE
+35;Electric Love Festival;6;03-07-25;9;House;185;3;outdoor;null;92;Plainfeld;1;Austria;AT
+35;Electric Love Festival;6;03-07-25;20;Dance;185;3;outdoor;null;92;Plainfeld;1;Austria;AT
+35;Electric Love Festival;6;03-07-25;19;Trance;185;3;outdoor;null;92;Plainfeld;1;Austria;AT
+35;Electric Love Festival;31;09-07-26;19;Trance;199;3;outdoor;10000;92;Plainfeld;1;Austria;AT
+35;Electric Love Festival;31;09-07-26;9;House;199;3;outdoor;10000;92;Plainfeld;1;Austria;AT
+35;Electric Love Festival;6;03-07-25;3;Electro;185;3;outdoor;null;92;Plainfeld;1;Austria;AT
+35;Electric Love Festival;31;09-07-26;3;Electro;199;3;outdoor;10000;92;Plainfeld;1;Austria;AT
+35;Electric Love Festival;31;09-07-26;20;Dance;199;3;outdoor;10000;92;Plainfeld;1;Austria;AT
+36;Electric Mountain Festival;102;31-03-25;3;Electro;null;5;outdoor;null;115;Sölden;1;Austria;AT
+36;Electric Mountain Festival;45;13-04-26;19;Trance;null;6;outdoor;17000;115;Sölden;1;Austria;AT
+36;Electric Mountain Festival;102;31-03-25;9;House;null;5;outdoor;null;115;Sölden;1;Austria;AT
+36;Electric Mountain Festival;45;13-04-26;9;House;null;6;outdoor;17000;115;Sölden;1;Austria;AT
+36;Electric Mountain Festival;45;13-04-26;3;Electro;null;6;outdoor;17000;115;Sölden;1;Austria;AT
+36;Electric Mountain Festival;102;31-03-25;19;Trance;null;5;outdoor;null;115;Sölden;1;Austria;AT
+37;Electrifinity Festival;67;19-06-26;9;House;573;3;outdoor;null;3;Bad Aibling;5;Germany;DE
+37;Electrifinity Festival;67;19-06-26;7;Hardcore (Electro);573;3;outdoor;null;3;Bad Aibling;5;Germany;DE
+37;Electrifinity Festival;67;19-06-26;20;Dance;573;3;outdoor;null;3;Bad Aibling;5;Germany;DE
+37;Electrifinity Festival;70;20-06-25;20;Dance;5418;3;outdoor;null;3;Bad Aibling;5;Germany;DE
+37;Electrifinity Festival;70;20-06-25;9;House;5418;3;outdoor;null;3;Bad Aibling;5;Germany;DE
+37;Electrifinity Festival;70;20-06-25;7;Hardcore (Electro);5418;3;outdoor;null;3;Bad Aibling;5;Germany;DE
+37;Electrifinity Festival;70;20-06-25;3;Electro;5418;3;outdoor;null;3;Bad Aibling;5;Germany;DE
+37;Electrifinity Festival;67;19-06-26;3;Electro;573;3;outdoor;null;3;Bad Aibling;5;Germany;DE
+38;Electrique Baroque Festival;47;13-06-26;3;Electro;299;1;outdoor;null;122;Waghäusel;5;Germany;DE
+38;Electrique Baroque Festival;50;14-06-25;3;Electro;2499;1;outdoor;null;122;Waghäusel;5;Germany;DE
+38;Electrique Baroque Festival;47;13-06-26;18;Techno;299;1;outdoor;null;122;Waghäusel;5;Germany;DE
+38;Electrique Baroque Festival;50;14-06-25;18;Techno;2499;1;outdoor;null;122;Waghäusel;5;Germany;DE
+39;Electrisize Festival;29;08-08-25;4;Electronic Dance Music (EDM);155;3;outdoor;null;27;Erkelenz;5;Germany;DE
+39;Electrisize Festival;29;08-08-25;3;Electro;155;3;outdoor;null;27;Erkelenz;5;Germany;DE
+40;Elements Electronic Music Festival;43;12-09-25;3;Electro;null;2;outdoor;null;18;Dormettingen;5;Germany;DE
+40;Elements Electronic Music Festival;43;12-09-25;20;Dance;null;2;outdoor;null;18;Dormettingen;5;Germany;DE
+40;Elements Electronic Music Festival;43;12-09-25;18;Techno;null;2;outdoor;null;18;Dormettingen;5;Germany;DE
+40;Elements Electronic Music Festival;43;12-09-25;4;Electronic Dance Music (EDM);null;2;outdoor;null;18;Dormettingen;5;Germany;DE
+41;Evolution Festival;12;04-09-25;10;Other;150;4;outdoor;null;38;Garlin;5;Germany;DE
+41;Evolution Festival;12;04-09-25;19;Trance;150;4;outdoor;null;38;Garlin;5;Germany;DE
+41;Evolution Festival;12;04-09-25;18;Techno;150;4;outdoor;null;38;Garlin;5;Germany;DE
+41;Evolution Festival;12;04-09-25;5;Goa;150;4;outdoor;null;38;Garlin;5;Germany;DE
+41;Evolution Festival;12;04-09-25;4;Electronic Dance Music (EDM);150;4;outdoor;null;38;Garlin;5;Germany;DE
+41;Evolution Festival;12;04-09-25;1;Art & culture;150;4;outdoor;null;38;Garlin;5;Germany;DE
+41;Evolution Festival;12;04-09-25;3;Electro;150;4;outdoor;null;38;Garlin;5;Germany;DE
+41;Evolution Festival;12;04-09-25;2;Disco;150;4;outdoor;null;38;Garlin;5;Germany;DE
+41;Evolution Festival;12;04-09-25;20;Dance;150;4;outdoor;null;38;Garlin;5;Germany;DE
+42;Fairground Festival;97;29-11-25;7;Hardcore (Electro);89;1;indoor;null;49;Hannover;5;Germany;DE
+42;Fairground Festival;97;29-11-25;9;House;89;1;indoor;null;49;Hannover;5;Germany;DE
+42;Fairground Festival;97;29-11-25;18;Techno;89;1;indoor;null;49;Hannover;5;Germany;DE
+42;Fairground Festival;97;29-11-25;3;Electro;89;1;indoor;null;49;Hannover;5;Germany;DE
+42;Fairground Festival;97;29-11-25;20;Dance;89;1;indoor;null;49;Hannover;5;Germany;DE
+43;Familientreffen Sandersleben;36;11-07-25;4;Electronic Dance Music (EDM);null;2;unknown;null;105;Sandersleben (Anhalt);5;Germany;DE
+44;Fantasy Beach Festival;4;02-08-25;20;Dance;17;1;outdoor;null;86;Nöda;5;Germany;DE
+44;Fantasy Beach Festival;4;02-08-25;3;Electro;17;1;outdoor;null;86;Nöda;5;Germany;DE
+44;Fantasy Beach Festival;4;02-08-25;9;House;17;1;outdoor;null;86;Nöda;5;Germany;DE
+44;Fantasy Beach Festival;4;02-08-25;4;Electronic Dance Music (EDM);17;1;outdoor;null;86;Nöda;5;Germany;DE
+44;Fantasy Beach Festival;4;02-08-25;7;Hardcore (Electro);17;1;outdoor;null;86;Nöda;5;Germany;DE
+45;Ferdinands Feld Festival;2;01-08-25;20;Dance;949;2;outdoor;null;102;Rotenburg (Wümme);5;Germany;DE
+45;Ferdinands Feld Festival;2;01-08-25;19;Trance;949;2;outdoor;null;102;Rotenburg (Wümme);5;Germany;DE
+45;Ferdinands Feld Festival;2;01-08-25;9;House;949;2;outdoor;null;102;Rotenburg (Wümme);5;Germany;DE
+45;Ferdinands Feld Festival;2;01-08-25;3;Electro;949;2;outdoor;null;102;Rotenburg (Wümme);5;Germany;DE
+46;Ferik Festival;55;15-08-25;4;Electronic Dance Music (EDM);75;2;outdoor;null;26;Ennepetal;5;Germany;DE
+46;Ferik Festival;55;15-08-25;9;House;75;2;outdoor;null;26;Ennepetal;5;Germany;DE
+46;Ferik Festival;55;15-08-25;3;Electro;75;2;outdoor;null;26;Ennepetal;5;Germany;DE
+47;Fusion Festival;80;24-06-26;20;Dance;null;5;outdoor;70000;70;Lärz;5;Germany;DE
+47;Fusion Festival;82;25-06-25;19;Trance;null;5;outdoor;null;70;Lärz;5;Germany;DE
+47;Fusion Festival;80;24-06-26;3;Electro;null;5;outdoor;70000;70;Lärz;5;Germany;DE
+47;Fusion Festival;80;24-06-26;19;Trance;null;5;outdoor;70000;70;Lärz;5;Germany;DE
+47;Fusion Festival;80;24-06-26;9;House;null;5;outdoor;70000;70;Lärz;5;Germany;DE
+47;Fusion Festival;82;25-06-25;9;House;null;5;outdoor;null;70;Lärz;5;Germany;DE
+47;Fusion Festival;82;25-06-25;3;Electro;null;5;outdoor;null;70;Lärz;5;Germany;DE
+47;Fusion Festival;82;25-06-25;20;Dance;null;5;outdoor;null;70;Lärz;5;Germany;DE
+48;GEht RAus! Open Air;23;06-09-25;4;Electronic Dance Music (EDM);30;1;outdoor;null;41;Gera;5;Germany;DE
+48;GEht RAus! Open Air;23;06-09-25;3;Electro;30;1;outdoor;null;41;Gera;5;Germany;DE
+49;Great Love World Festival;23;06-09-25;4;Electronic Dance Music (EDM);1499;2;indoor;null;109;Solingen;5;Germany;DE
+50;GuteZeit Festival;16;05-07-25;3;Electro;null;1;outdoor;null;58;Konstanz;5;Germany;DE
+50;GuteZeit Festival;16;05-07-25;18;Techno;null;1;outdoor;null;58;Konstanz;5;Germany;DE
+50;GuteZeit Festival;16;05-07-25;4;Electronic Dance Music (EDM);null;1;outdoor;null;58;Konstanz;5;Germany;DE
+51;Habitat Festival;65;18-07-26;3;Electro;80;2;outdoor;5000;47;Hamburg;5;Germany;DE
+51;Habitat Festival;65;18-07-26;9;House;80;2;outdoor;5000;47;Hamburg;5;Germany;DE
+51;Habitat Festival;65;18-07-26;20;Dance;80;2;outdoor;5000;47;Hamburg;5;Germany;DE
+51;Habitat Festival;68;19-07-25;3;Electro;75;2;outdoor;null;47;Hamburg;5;Germany;DE
+51;Habitat Festival;68;19-07-25;9;House;75;2;outdoor;null;47;Hamburg;5;Germany;DE
+51;Habitat Festival;68;19-07-25;20;Dance;75;2;outdoor;null;47;Hamburg;5;Germany;DE
+51;Habitat Festival;68;19-07-25;19;Trance;75;2;outdoor;null;47;Hamburg;5;Germany;DE
+51;Habitat Festival;65;18-07-26;19;Trance;80;2;outdoor;5000;47;Hamburg;5;Germany;DE
+52;Hai in den Mai Festival;1;01-05-25;3;Electro;null;4;outdoor;null;114;Stemwede / Wehdem;5;Germany;DE
+52;Hai in den Mai Festival;1;01-05-25;5;Goa;null;4;outdoor;null;114;Stemwede / Wehdem;5;Germany;DE
+52;Hai in den Mai Festival;1;01-05-25;19;Trance;null;4;outdoor;null;114;Stemwede / Wehdem;5;Germany;DE
+52;Hai in den Mai Festival;99;30-04-26;19;Trance;null;4;outdoor;5000;114;Stemwede / Wehdem;5;Germany;DE
+52;Hai in den Mai Festival;99;30-04-26;5;Goa;null;4;outdoor;5000;114;Stemwede / Wehdem;5;Germany;DE
+52;Hai in den Mai Festival;99;30-04-26;3;Electro;null;4;outdoor;5000;114;Stemwede / Wehdem;5;Germany;DE
+53;Hain & Zunder Festival;2;01-08-25;3;Electro;null;2;outdoor;null;67;Luckenwalde;5;Germany;DE
+53;Hain & Zunder Festival;2;01-08-25;8;Hip-Hop;null;2;outdoor;null;67;Luckenwalde;5;Germany;DE
+53;Hain & Zunder Festival;2;01-08-25;10;Other;null;2;outdoor;null;67;Luckenwalde;5;Germany;DE
+53;Hain & Zunder Festival;2;01-08-25;9;House;null;2;outdoor;null;67;Luckenwalde;5;Germany;DE
+54;Harder Force Indoor Festival;96;29-05-26;18;Techno;899;2;indoor;null;52;Heide;5;Germany;DE
+54;Harder Force Indoor Festival;96;29-05-26;7;Hardcore (Electro);899;2;indoor;null;52;Heide;5;Germany;DE
+54;Harder Force Indoor Festival;96;29-05-26;3;Electro;899;2;indoor;null;52;Heide;5;Germany;DE
+54;Harder Force Indoor Festival;76;23-05-25;18;Techno;799;2;indoor;null;52;Heide;5;Germany;DE
+54;Harder Force Indoor Festival;76;23-05-25;7;Hardcore (Electro);799;2;indoor;null;52;Heide;5;Germany;DE
+54;Harder Force Indoor Festival;76;23-05-25;3;Electro;799;2;indoor;null;52;Heide;5;Germany;DE
+55;Havelbeats Festival;55;15-08-25;5;Goa;79;2;outdoor;null;96;Potsdam;5;Germany;DE
+55;Havelbeats Festival;55;15-08-25;4;Electronic Dance Music (EDM);79;2;outdoor;null;96;Potsdam;5;Germany;DE
+55;Havelbeats Festival;55;15-08-25;3;Electro;79;2;outdoor;null;96;Potsdam;5;Germany;DE
+55;Havelbeats Festival;55;15-08-25;18;Techno;79;2;outdoor;null;96;Potsdam;5;Germany;DE
+56;Heaven & Hill Festival;103;31-05-25;3;Electro;null;1;outdoor;null;82;Neukirchen-Vluyn;5;Germany;DE
+56;Heaven & Hill Festival;21;06-06-26;19;Trance;null;1;outdoor;null;82;Neukirchen-Vluyn;5;Germany;DE
+56;Heaven & Hill Festival;21;06-06-26;9;House;null;1;outdoor;null;82;Neukirchen-Vluyn;5;Germany;DE
+56;Heaven & Hill Festival;21;06-06-26;4;Electronic Dance Music (EDM);null;1;outdoor;null;82;Neukirchen-Vluyn;5;Germany;DE
+56;Heaven & Hill Festival;103;31-05-25;19;Trance;null;1;outdoor;null;82;Neukirchen-Vluyn;5;Germany;DE
+56;Heaven & Hill Festival;103;31-05-25;9;House;null;1;outdoor;null;82;Neukirchen-Vluyn;5;Germany;DE
+56;Heaven & Hill Festival;103;31-05-25;4;Electronic Dance Music (EDM);null;1;outdoor;null;82;Neukirchen-Vluyn;5;Germany;DE
+56;Heaven & Hill Festival;21;06-06-26;3;Electro;null;1;outdoor;null;82;Neukirchen-Vluyn;5;Germany;DE
+57;HeideWitzka Festival;3;02-07-26;7;Hardcore (Electro);null;3;outdoor;5000;54;Hildburghausen;5;Germany;DE
+57;HeideWitzka Festival;3;02-07-26;3;Electro;null;3;outdoor;5000;54;Hildburghausen;5;Germany;DE
+57;HeideWitzka Festival;6;03-07-25;20;Dance;49;3;outdoor;null;54;Hildburghausen;5;Germany;DE
+57;HeideWitzka Festival;6;03-07-25;7;Hardcore (Electro);49;3;outdoor;null;54;Hildburghausen;5;Germany;DE
+57;HeideWitzka Festival;3;02-07-26;9;House;null;3;outdoor;5000;54;Hildburghausen;5;Germany;DE
+57;HeideWitzka Festival;3;02-07-26;20;Dance;null;3;outdoor;5000;54;Hildburghausen;5;Germany;DE
+57;HeideWitzka Festival;6;03-07-25;9;House;49;3;outdoor;null;54;Hildburghausen;5;Germany;DE
+57;HeideWitzka Festival;6;03-07-25;3;Electro;49;3;outdoor;null;54;Hildburghausen;5;Germany;DE
+58;Heidebeat Festival;57;16-08-25;3;Electro;35;1;outdoor;null;106;Schmelz;5;Germany;DE
+59;Heimathafen Open Air;16;05-07-25;3;Electro;17;1;outdoor;null;116;Teichwolframsdorf-Mohlsdorf;5;Germany;DE
+59;Heimathafen Open Air;16;05-07-25;18;Techno;17;1;outdoor;null;116;Teichwolframsdorf-Mohlsdorf;5;Germany;DE
+59;Heimathafen Open Air;16;05-07-25;9;House;17;1;outdoor;null;116;Teichwolframsdorf-Mohlsdorf;5;Germany;DE
+60;Helene Beach Open Air;56;16-07-26;20;Dance;36;3;outdoor;2000;33;Frankfurt/Oder;5;Germany;DE
+60;Helene Beach Open Air;56;16-07-26;18;Techno;36;3;outdoor;2000;33;Frankfurt/Oder;5;Germany;DE
+60;Helene Beach Open Air;56;16-07-26;9;House;36;3;outdoor;2000;33;Frankfurt/Oder;5;Germany;DE
+60;Helene Beach Open Air;56;16-07-26;3;Electro;36;3;outdoor;2000;33;Frankfurt/Oder;5;Germany;DE
+60;Helene Beach Open Air;60;17-07-25;9;House;231;3;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+60;Helene Beach Open Air;60;17-07-25;5;Goa;231;3;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+60;Helene Beach Open Air;60;17-07-25;18;Techno;231;3;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+60;Helene Beach Open Air;60;17-07-25;3;Electro;231;3;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+61;Hill of Dreams Festival;29;08-08-25;9;House;6776;2;outdoor;null;12;Bruchhausen Vilsen;5;Germany;DE
+61;Hill of Dreams Festival;29;08-08-25;7;Hardcore (Electro);6776;2;outdoor;null;12;Bruchhausen Vilsen;5;Germany;DE
+61;Hill of Dreams Festival;29;08-08-25;4;Electronic Dance Music (EDM);6776;2;outdoor;null;12;Bruchhausen Vilsen;5;Germany;DE
+61;Hill of Dreams Festival;29;08-08-25;3;Electro;6776;2;outdoor;null;12;Bruchhausen Vilsen;5;Germany;DE
+61;Hill of Dreams Festival;29;08-08-25;20;Dance;6776;2;outdoor;null;12;Bruchhausen Vilsen;5;Germany;DE
+62;Himmelfahrt Festival;95;29-05-25;4;Electronic Dance Music (EDM);null;2;unknown;null;39;Gebesee;5;Germany;DE
+62;Himmelfahrt Festival;95;29-05-25;9;House;null;2;unknown;null;39;Gebesee;5;Germany;DE
+62;Himmelfahrt Festival;95;29-05-25;18;Techno;null;2;unknown;null;39;Gebesee;5;Germany;DE
+63;Hitech Universe Open Air Festival;33;10-05-25;5;Goa;375;1;outdoor;null;128;Wittstock OT Zempow;5;Germany;DE
+64;Hive Festival;67;19-06-26;4;Electronic Dance Music (EDM);null;3;outdoor;null;46;Gräfenhainichen;5;Germany;DE
+64;Hive Festival;67;19-06-26;19;Trance;null;3;outdoor;null;46;Gräfenhainichen;5;Germany;DE
+64;Hive Festival;67;19-06-26;3;Electro;null;3;outdoor;null;46;Gräfenhainichen;5;Germany;DE
+64;Hive Festival;70;20-06-25;19;Trance;180;3;outdoor;null;46;Gräfenhainichen;5;Germany;DE
+64;Hive Festival;70;20-06-25;4;Electronic Dance Music (EDM);180;3;outdoor;null;46;Gräfenhainichen;5;Germany;DE
+64;Hive Festival;70;20-06-25;3;Electro;180;3;outdoor;null;46;Gräfenhainichen;5;Germany;DE
+65;Ikarus Festival;20;06-06-25;20;Dance;null;4;outdoor;null;74;Memmingerberg;5;Germany;DE
+65;Ikarus Festival;20;06-06-25;3;Electro;null;4;outdoor;null;74;Memmingerberg;5;Germany;DE
+65;Ikarus Festival;20;06-06-25;9;House;null;4;outdoor;null;74;Memmingerberg;5;Germany;DE
+65;Ikarus Festival;74;22-05-26;9;House;null;4;outdoor;35000;74;Memmingerberg;5;Germany;DE
+65;Ikarus Festival;74;22-05-26;3;Electro;null;4;outdoor;35000;74;Memmingerberg;5;Germany;DE
+65;Ikarus Festival;74;22-05-26;20;Dance;null;4;outdoor;35000;74;Memmingerberg;5;Germany;DE
+66;In litore Festival;55;15-08-25;20;Dance;49;2;outdoor;null;126;Westerdeichstrich;5;Germany;DE
+66;In litore Festival;53;14-08-26;20;Dance;69;3;outdoor;3500;126;Westerdeichstrich;5;Germany;DE
+66;In litore Festival;55;15-08-25;18;Techno;49;2;outdoor;null;126;Westerdeichstrich;5;Germany;DE
+66;In litore Festival;55;15-08-25;4;Electronic Dance Music (EDM);49;2;outdoor;null;126;Westerdeichstrich;5;Germany;DE
+66;In litore Festival;53;14-08-26;4;Electronic Dance Music (EDM);69;3;outdoor;3500;126;Westerdeichstrich;5;Germany;DE
+66;In litore Festival;53;14-08-26;18;Techno;69;3;outdoor;3500;126;Westerdeichstrich;5;Germany;DE
+67;Indian Spirit Festival;89;26-08-26;5;Goa;null;6;outdoor;20000;23;Eldena;5;Germany;DE
+67;Indian Spirit Festival;91;27-08-25;20;Dance;8999;6;outdoor;null;69;Ludwigslust;5;Germany;DE
+67;Indian Spirit Festival;91;27-08-25;3;Electro;8999;6;outdoor;null;69;Ludwigslust;5;Germany;DE
+67;Indian Spirit Festival;91;27-08-25;19;Trance;8999;6;outdoor;null;69;Ludwigslust;5;Germany;DE
+67;Indian Spirit Festival;91;27-08-25;5;Goa;8999;6;outdoor;null;69;Ludwigslust;5;Germany;DE
+67;Indian Spirit Festival;91;27-08-25;4;Electronic Dance Music (EDM);8999;6;outdoor;null;69;Ludwigslust;5;Germany;DE
+67;Indian Spirit Festival;91;27-08-25;18;Techno;8999;6;outdoor;null;69;Ludwigslust;5;Germany;DE
+68;Into the Madness Festival;18;05-09-26;18;Techno;649;1;outdoor;null;130;Zülpich;5;Germany;DE
+68;Into the Madness Festival;18;05-09-26;7;Hardcore (Electro);649;1;outdoor;null;130;Zülpich;5;Germany;DE
+68;Into the Madness Festival;18;05-09-26;4;Electronic Dance Music (EDM);649;1;outdoor;null;130;Zülpich;5;Germany;DE
+68;Into the Madness Festival;18;05-09-26;3;Electro;649;1;outdoor;null;130;Zülpich;5;Germany;DE
+69;Isle of Summer;93;28-06-25;9;House;null;1;outdoor;null;78;München;5;Germany;DE
+69;Isle of Summer;93;28-06-25;3;Electro;null;1;outdoor;null;78;München;5;Germany;DE
+69;Isle of Summer;47;13-06-26;9;House;null;1;outdoor;3000;78;München;5;Germany;DE
+69;Isle of Summer;47;13-06-26;3;Electro;null;1;outdoor;3000;78;München;5;Germany;DE
+70;Just White and Blue;17;05-09-25;3;Electro;2864;1;outdoor;null;68;Ludwigsburg;5;Germany;DE
+70;Just White and Blue;17;05-09-25;9;House;2864;1;outdoor;null;68;Ludwigsburg;5;Germany;DE
+70;Just White and Blue;17;05-09-25;4;Electronic Dance Music (EDM);2864;1;outdoor;null;68;Ludwigsburg;5;Germany;DE
+71;Kallisto Festival;84;25-07-25;20;Dance;100;3;outdoor;null;30;Ferdinandshof;5;Germany;DE
+71;Kallisto Festival;84;25-07-25;3;Electro;100;3;outdoor;null;30;Ferdinandshof;5;Germany;DE
+71;Kallisto Festival;84;25-07-25;2;Disco;100;3;outdoor;null;30;Ferdinandshof;5;Germany;DE
+72;Kindheitstraum Festival;90;27-06-26;3;Electro;35;1;outdoor;null;110;Speichersdorf;5;Germany;DE
+72;Kindheitstraum Festival;93;28-06-25;9;House;35;1;outdoor;null;110;Speichersdorf;5;Germany;DE
+72;Kindheitstraum Festival;93;28-06-25;4;Electronic Dance Music (EDM);35;1;outdoor;null;110;Speichersdorf;5;Germany;DE
+72;Kindheitstraum Festival;93;28-06-25;3;Electro;35;1;outdoor;null;110;Speichersdorf;5;Germany;DE
+72;Kindheitstraum Festival;90;27-06-26;9;House;35;1;outdoor;null;110;Speichersdorf;5;Germany;DE
+72;Kindheitstraum Festival;90;27-06-26;4;Electronic Dance Music (EDM);35;1;outdoor;null;110;Speichersdorf;5;Germany;DE
+73;Klangtherapie Festival;104;31-07-25;20;Dance;150;5;outdoor;null;93;Plankenfels;5;Germany;DE
+73;Klangtherapie Festival;22;06-08-26;19;Trance;135;5;outdoor;3500;93;Plankenfels;5;Germany;DE
+73;Klangtherapie Festival;104;31-07-25;3;Electro;150;5;outdoor;null;93;Plankenfels;5;Germany;DE
+73;Klangtherapie Festival;22;06-08-26;3;Electro;135;5;outdoor;3500;93;Plankenfels;5;Germany;DE
+73;Klangtherapie Festival;22;06-08-26;20;Dance;135;5;outdoor;3500;93;Plankenfels;5;Germany;DE
+73;Klangtherapie Festival;104;31-07-25;19;Trance;150;5;outdoor;null;93;Plankenfels;5;Germany;DE
+74;Lacuna Festival;55;15-08-25;3;Electro;null;2;outdoor;null;89;Ochtrup;5;Germany;DE
+74;Lacuna Festival;55;15-08-25;18;Techno;null;2;outdoor;null;89;Ochtrup;5;Germany;DE
+74;Lacuna Festival;55;15-08-25;9;House;null;2;outdoor;null;89;Ochtrup;5;Germany;DE
+74;Lacuna Festival;55;15-08-25;4;Electronic Dance Music (EDM);null;2;outdoor;null;89;Ochtrup;5;Germany;DE
+74;Lacuna Festival;55;15-08-25;7;Hardcore (Electro);null;2;outdoor;null;89;Ochtrup;5;Germany;DE
+75;Libella Festival;37;11-07-26;20;Dance;1999;1;outdoor;3000;9;Bochum;5;Germany;DE
+75;Libella Festival;37;11-07-26;18;Techno;1999;1;outdoor;3000;9;Bochum;5;Germany;DE
+75;Libella Festival;37;11-07-26;19;Trance;1999;1;outdoor;3000;9;Bochum;5;Germany;DE
+75;Libella Festival;37;11-07-26;7;Hardcore (Electro);1999;1;outdoor;3000;9;Bochum;5;Germany;DE
+75;Libella Festival;37;11-07-26;4;Electronic Dance Music (EDM);1999;1;outdoor;3000;9;Bochum;5;Germany;DE
+75;Libella Festival;37;11-07-26;3;Electro;1999;1;outdoor;3000;9;Bochum;5;Germany;DE
+76;Love Explosion Festival;14;05-06-25;18;Techno;599;4;outdoor;null;100;Quarnstedt;5;Germany;DE
+76;Love Explosion Festival;14;05-06-25;5;Goa;599;4;outdoor;null;100;Quarnstedt;5;Germany;DE
+76;Love Explosion Festival;14;05-06-25;3;Electro;599;4;outdoor;null;100;Quarnstedt;5;Germany;DE
+76;Love Explosion Festival;8;04-06-26;18;Techno;799;4;outdoor;3500;100;Quarnstedt;5;Germany;DE
+76;Love Explosion Festival;8;04-06-26;5;Goa;799;4;outdoor;3500;100;Quarnstedt;5;Germany;DE
+76;Love Explosion Festival;8;04-06-26;19;Trance;799;4;outdoor;3500;100;Quarnstedt;5;Germany;DE
+76;Love Explosion Festival;8;04-06-26;3;Electro;799;4;outdoor;3500;100;Quarnstedt;5;Germany;DE
+76;Love Explosion Festival;14;05-06-25;19;Trance;599;4;outdoor;null;100;Quarnstedt;5;Germany;DE
+77;Lucky Lake Festival;101;30-08-25;4;Electronic Dance Music (EDM);null;1;outdoor;null;66;Losheim;5;Germany;DE
+77;Lucky Lake Festival;101;30-08-25;18;Techno;null;1;outdoor;null;66;Losheim;5;Germany;DE
+77;Lucky Lake Festival;101;30-08-25;19;Trance;null;1;outdoor;null;66;Losheim;5;Germany;DE
+77;Lucky Lake Festival;101;30-08-25;20;Dance;null;1;outdoor;null;66;Losheim;5;Germany;DE
+78;Luftliebe Festival;29;08-08-25;9;House;2467;2;outdoor;null;25;Empfingen;5;Germany;DE
+78;Luftliebe Festival;29;08-08-25;3;Electro;2467;2;outdoor;null;25;Empfingen;5;Germany;DE
+79;Mayday;99;30-04-26;20;Dance;69;1;indoor;15000;19;Dortmund;5;Germany;DE
+79;Mayday;99;30-04-26;19;Trance;69;1;indoor;15000;19;Dortmund;5;Germany;DE
+79;Mayday;98;30-04-25;20;Dance;74;1;indoor;null;19;Dortmund;5;Germany;DE
+79;Mayday;98;30-04-25;3;Electro;74;1;indoor;null;19;Dortmund;5;Germany;DE
+79;Mayday;99;30-04-26;9;House;69;1;indoor;15000;19;Dortmund;5;Germany;DE
+79;Mayday;98;30-04-25;19;Trance;74;1;indoor;null;19;Dortmund;5;Germany;DE
+79;Mayday;98;30-04-25;9;House;74;1;indoor;null;19;Dortmund;5;Germany;DE
+79;Mayday;99;30-04-26;3;Electro;69;1;indoor;15000;19;Dortmund;5;Germany;DE
+80;Medival Open Air;36;11-07-25;3;Electro;49;3;outdoor;null;42;Gerstungen;5;Germany;DE
+81;Megaton Festival;103;31-05-25;9;House;38;1;outdoor;null;17;Dorfen;5;Germany;DE
+81;Megaton Festival;103;31-05-25;3;Electro;38;1;outdoor;null;17;Dorfen;5;Germany;DE
+81;Megaton Festival;103;31-05-25;18;Techno;38;1;outdoor;null;17;Dorfen;5;Germany;DE
+81;Megaton Festival;103;31-05-25;19;Trance;38;1;outdoor;null;17;Dorfen;5;Germany;DE
+82;Midsummer Festival Austria;72;21-06-25;18;Techno;299;2;outdoor;null;63;Langkampfen;1;Austria;AT
+82;Midsummer Festival Austria;72;21-06-25;4;Electronic Dance Music (EDM);299;2;outdoor;null;63;Langkampfen;1;Austria;AT
+82;Midsummer Festival Austria;71;20-06-26;18;Techno;null;1;outdoor;2500;63;Langkampfen;1;Austria;AT
+82;Midsummer Festival Austria;71;20-06-26;4;Electronic Dance Music (EDM);null;1;outdoor;2500;63;Langkampfen;1;Austria;AT
+83;MoDem Festival;11;04-08-25;5;Goa;298;7;outdoor;null;97;Primislje;3;Croatia;HR
+84;Momentum Festival;87;26-06-25;19;Trance;60;4;outdoor;null;118;Triptis;5;Germany;DE
+84;Momentum Festival;87;26-06-25;18;Techno;60;4;outdoor;null;118;Triptis;5;Germany;DE
+84;Momentum Festival;87;26-06-25;3;Electro;60;4;outdoor;null;118;Triptis;5;Germany;DE
+84;Momentum Festival;87;26-06-25;9;House;60;4;outdoor;null;118;Triptis;5;Germany;DE
+85;Moyn Festival;73;21-08-25;4;Electronic Dance Music (EDM);225;4;outdoor;null;90;Oyten;5;Germany;DE
+85;Moyn Festival;73;21-08-25;3;Electro;225;4;outdoor;null;90;Oyten;5;Germany;DE
+85;Moyn Festival;73;21-08-25;20;Dance;225;4;outdoor;null;90;Oyten;5;Germany;DE
+85;Moyn Festival;73;21-08-25;19;Trance;225;4;outdoor;null;90;Oyten;5;Germany;DE
+86;Mysteryland;75;22-08-25;5;Goa;null;3;outdoor;null;2;Amsterdam;6;Netherlands;NL
+86;Mysteryland;75;22-08-25;7;Hardcore (Electro);null;3;outdoor;null;2;Amsterdam;6;Netherlands;NL
+86;Mysteryland;75;22-08-25;9;House;null;3;outdoor;null;2;Amsterdam;6;Netherlands;NL
+86;Mysteryland;75;22-08-25;3;Electro;null;3;outdoor;null;2;Amsterdam;6;Netherlands;NL
+86;Mysteryland;75;22-08-25;20;Dance;null;3;outdoor;null;2;Amsterdam;6;Netherlands;NL
+87;Nachtiville Festival;58;17-01-25;3;Electro;353;4;indoor;null;125;Weissenhäuser Strand;5;Germany;DE
+88;Nature One;100;30-07-26;9;House;159;4;outdoor;65000;57;Kastellaun;5;Germany;DE
+88;Nature One;100;30-07-26;7;Hardcore (Electro);159;4;outdoor;65000;57;Kastellaun;5;Germany;DE
+88;Nature One;100;30-07-26;4;Electronic Dance Music (EDM);159;4;outdoor;65000;57;Kastellaun;5;Germany;DE
+88;Nature One;104;31-07-25;9;House;129;4;outdoor;null;51;Hasselbach;5;Germany;DE
+88;Nature One;100;30-07-26;19;Trance;159;4;outdoor;65000;57;Kastellaun;5;Germany;DE
+88;Nature One;104;31-07-25;19;Trance;129;4;outdoor;null;51;Hasselbach;5;Germany;DE
+88;Nature One;100;30-07-26;18;Techno;159;4;outdoor;65000;57;Kastellaun;5;Germany;DE
+88;Nature One;104;31-07-25;3;Electro;129;4;outdoor;null;51;Hasselbach;5;Germany;DE
+88;Nature One;104;31-07-25;20;Dance;129;4;outdoor;null;51;Hasselbach;5;Germany;DE
+88;Nature One;100;30-07-26;10;Other;159;4;outdoor;65000;57;Kastellaun;5;Germany;DE
+89;Nibirii Festival;75;22-08-25;5;Goa;164;3;outdoor;null;21;Düren;5;Germany;DE
+89;Nibirii Festival;75;22-08-25;18;Techno;164;3;outdoor;null;21;Düren;5;Germany;DE
+90;Noisy Festival;64;18-07-25;3;Electro;69;3;outdoor;null;47;Hamburg;5;Germany;DE
+90;Noisy Festival;94;28-08-26;3;Electro;69;3;outdoor;6000;47;Hamburg;5;Germany;DE
+91;Open Beatz Festival;81;24-07-26;9;House;184;3;outdoor;25000;53;Herzogenaurach;5;Germany;DE
+91;Open Beatz Festival;81;24-07-26;7;Hardcore (Electro);184;3;outdoor;25000;53;Herzogenaurach;5;Germany;DE
+91;Open Beatz Festival;84;25-07-25;9;House;189;3;outdoor;null;53;Herzogenaurach;5;Germany;DE
+91;Open Beatz Festival;81;24-07-26;3;Electro;184;3;outdoor;25000;53;Herzogenaurach;5;Germany;DE
+91;Open Beatz Festival;84;25-07-25;19;Trance;189;3;outdoor;null;53;Herzogenaurach;5;Germany;DE
+91;Open Beatz Festival;84;25-07-25;7;Hardcore (Electro);189;3;outdoor;null;53;Herzogenaurach;5;Germany;DE
+91;Open Beatz Festival;84;25-07-25;3;Electro;189;3;outdoor;null;53;Herzogenaurach;5;Germany;DE
+91;Open Beatz Festival;81;24-07-26;19;Trance;184;3;outdoor;25000;53;Herzogenaurach;5;Germany;DE
+92;Orange Sun Festival;7;03-07-26;3;Electro;null;3;outdoor;null;45;Grebs-Niendorf;5;Germany;DE
+92;Orange Sun Festival;7;03-07-26;19;Trance;null;3;outdoor;null;45;Grebs-Niendorf;5;Germany;DE
+92;Orange Sun Festival;7;03-07-26;20;Dance;null;3;outdoor;null;45;Grebs-Niendorf;5;Germany;DE
+92;Orange Sun Festival;7;03-07-26;4;Electronic Dance Music (EDM);null;3;outdoor;null;45;Grebs-Niendorf;5;Germany;DE
+92;Orange Sun Festival;9;04-07-25;19;Trance;85;3;outdoor;null;45;Grebs-Niendorf;5;Germany;DE
+92;Orange Sun Festival;9;04-07-25;4;Electronic Dance Music (EDM);85;3;outdoor;null;45;Grebs-Niendorf;5;Germany;DE
+92;Orange Sun Festival;9;04-07-25;20;Dance;85;3;outdoor;null;45;Grebs-Niendorf;5;Germany;DE
+92;Orange Sun Festival;9;04-07-25;3;Electro;85;3;outdoor;null;45;Grebs-Niendorf;5;Germany;DE
+93;Papaya Spring Break;46;13-06-25;4;Electronic Dance Music (EDM);59;3;outdoor;null;85;Novalja;3;Croatia;HR
+93;Papaya Spring Break;46;13-06-25;3;Electro;59;3;outdoor;null;85;Novalja;3;Croatia;HR
+94;Paradies Garten Festival;2;01-08-25;20;Dance;14999;3;outdoor;null;13;Bruck an der Leitha;1;Austria;AT
+94;Paradies Garten Festival;2;01-08-25;2;Disco;14999;3;outdoor;null;13;Bruck an der Leitha;1;Austria;AT
+94;Paradies Garten Festival;2;01-08-25;9;House;14999;3;outdoor;null;13;Bruck an der Leitha;1;Austria;AT
+94;Paradies Garten Festival;2;01-08-25;3;Electro;14999;3;outdoor;null;13;Bruck an der Leitha;1;Austria;AT
+95;Parookaville Festival;61;17-07-26;3;Electro;null;3;outdoor;250000;124;Weeze;5;Germany;DE
+95;Parookaville Festival;61;17-07-26;7;Hardcore (Electro);null;3;outdoor;250000;124;Weeze;5;Germany;DE
+95;Parookaville Festival;61;17-07-26;20;Dance;null;3;outdoor;250000;124;Weeze;5;Germany;DE
+95;Parookaville Festival;64;18-07-25;19;Trance;null;3;outdoor;null;124;Weeze;5;Germany;DE
+95;Parookaville Festival;64;18-07-25;9;House;null;3;outdoor;null;124;Weeze;5;Germany;DE
+95;Parookaville Festival;61;17-07-26;10;Other;null;3;outdoor;250000;124;Weeze;5;Germany;DE
+95;Parookaville Festival;61;17-07-26;4;Electronic Dance Music (EDM);null;3;outdoor;250000;124;Weeze;5;Germany;DE
+95;Parookaville Festival;64;18-07-25;3;Electro;null;3;outdoor;null;124;Weeze;5;Germany;DE
+95;Parookaville Festival;64;18-07-25;20;Dance;null;3;outdoor;null;124;Weeze;5;Germany;DE
+95;Parookaville Festival;61;17-07-26;18;Techno;null;3;outdoor;250000;124;Weeze;5;Germany;DE
+96;Pirate Beach Open Air;101;30-08-25;3;Electro;35;1;outdoor;null;65;Linkenheim;5;Germany;DE
+97;PollerWiesen Opening;86;26-04-25;20;Dance;34;1;outdoor;null;60;Köln;5;Germany;DE
+97;PollerWiesen Opening;86;26-04-25;3;Electro;34;1;outdoor;null;60;Köln;5;Germany;DE
+97;PollerWiesen Opening;86;26-04-25;19;Trance;34;1;outdoor;null;60;Köln;5;Germany;DE
+97;PollerWiesen Opening;86;26-04-25;18;Techno;34;1;outdoor;null;60;Köln;5;Germany;DE
+97;PollerWiesen Opening;86;26-04-25;9;House;34;1;outdoor;null;60;Köln;5;Germany;DE
+98;Praerie Festival;105;31-07-26;20;Dance;170;3;outdoor;null;36;Galenbeck;5;Germany;DE
+98;Praerie Festival;105;31-07-26;3;Electro;170;3;outdoor;null;36;Galenbeck;5;Germany;DE
+98;Praerie Festival;104;31-07-25;20;Dance;160;4;outdoor;null;36;Galenbeck;5;Germany;DE
+98;Praerie Festival;105;31-07-26;19;Trance;170;3;outdoor;null;36;Galenbeck;5;Germany;DE
+98;Praerie Festival;105;31-07-26;4;Electronic Dance Music (EDM);170;3;outdoor;null;36;Galenbeck;5;Germany;DE
+98;Praerie Festival;104;31-07-25;19;Trance;160;4;outdoor;null;36;Galenbeck;5;Germany;DE
+98;Praerie Festival;104;31-07-25;4;Electronic Dance Music (EDM);160;4;outdoor;null;36;Galenbeck;5;Germany;DE
+98;Praerie Festival;104;31-07-25;3;Electro;160;4;outdoor;null;36;Galenbeck;5;Germany;DE
+99;Pressure Doom 360 Cage Rave;24;06-12-25;18;Techno;20;2;indoor;null;14;Büsum;5;Germany;DE
+99;Pressure Doom 360 Cage Rave;24;06-12-25;7;Hardcore (Electro);20;2;indoor;null;14;Büsum;5;Germany;DE
+99;Pressure Doom 360 Cage Rave;24;06-12-25;4;Electronic Dance Music (EDM);20;2;indoor;null;14;Büsum;5;Germany;DE
+100;Rave and Sun Festival;77;23-05-26;20;Dance;null;1;outdoor;null;43;Gießen;5;Germany;DE
+100;Rave and Sun Festival;77;23-05-26;3;Electro;null;1;outdoor;null;43;Gießen;5;Germany;DE
+100;Rave and Sun Festival;77;23-05-26;9;House;null;1;outdoor;null;43;Gießen;5;Germany;DE
+100;Rave and Sun Festival;79;24-05-25;9;House;25;1;outdoor;null;43;Gießen;5;Germany;DE
+100;Rave and Sun Festival;79;24-05-25;20;Dance;25;1;outdoor;null;43;Gießen;5;Germany;DE
+100;Rave and Sun Festival;79;24-05-25;3;Electro;25;1;outdoor;null;43;Gießen;5;Germany;DE
+101;Rave on Snow Festival;39;11-12-25;9;House;150;4;outdoor;null;103;Saalbach;1;Austria;AT
+101;Rave on Snow Festival;39;11-12-25;3;Electro;150;4;outdoor;null;103;Saalbach;1;Austria;AT
+102;Ruhr in Love;10;04-07-26;9;House;39;1;outdoor;36000;87;Oberhausen;5;Germany;DE
+102;Ruhr in Love;16;05-07-25;20;Dance;39;1;outdoor;null;87;Oberhausen;5;Germany;DE
+102;Ruhr in Love;10;04-07-26;3;Electro;39;1;outdoor;36000;87;Oberhausen;5;Germany;DE
+102;Ruhr in Love;10;04-07-26;19;Trance;39;1;outdoor;36000;87;Oberhausen;5;Germany;DE
+102;Ruhr in Love;16;05-07-25;19;Trance;39;1;outdoor;null;87;Oberhausen;5;Germany;DE
+102;Ruhr in Love;16;05-07-25;9;House;39;1;outdoor;null;87;Oberhausen;5;Germany;DE
+102;Ruhr in Love;16;05-07-25;3;Electro;39;1;outdoor;null;87;Oberhausen;5;Germany;DE
+102;Ruhr in Love;10;04-07-26;20;Dance;39;1;outdoor;36000;87;Oberhausen;5;Germany;DE
+103;SMAG Sundance Festival;42;12-07-25;3;Electro;45;1;outdoor;null;28;Essen;5;Germany;DE
+103;SMAG Sundance Festival;37;11-07-26;3;Electro;39;1;outdoor;null;28;Essen;5;Germany;DE
+104;Schall im Schilf Festival;65;18-07-26;3;Electro;45;1;outdoor;10000;37;Garching;5;Germany;DE
+104;Schall im Schilf Festival;68;19-07-25;3;Electro;42;1;outdoor;null;37;Garching;5;Germany;DE
+105;Sea You Festival;61;17-07-26;20;Dance;15999;3;outdoor;34000;34;Freiburg im Breisgau;5;Germany;DE
+105;Sea You Festival;61;17-07-26;19;Trance;15999;3;outdoor;34000;34;Freiburg im Breisgau;5;Germany;DE
+105;Sea You Festival;61;17-07-26;4;Electronic Dance Music (EDM);15999;3;outdoor;34000;34;Freiburg im Breisgau;5;Germany;DE
+105;Sea You Festival;61;17-07-26;3;Electro;15999;3;outdoor;34000;34;Freiburg im Breisgau;5;Germany;DE
+105;Sea You Festival;64;18-07-25;19;Trance;null;3;outdoor;null;34;Freiburg im Breisgau;5;Germany;DE
+105;Sea You Festival;64;18-07-25;4;Electronic Dance Music (EDM);null;3;outdoor;null;34;Freiburg im Breisgau;5;Germany;DE
+105;Sea You Festival;64;18-07-25;3;Electro;null;3;outdoor;null;34;Freiburg im Breisgau;5;Germany;DE
+105;Sea You Festival;64;18-07-25;20;Dance;null;3;outdoor;null;34;Freiburg im Breisgau;5;Germany;DE
+106;Senne Beach Festival;16;05-07-25;19;Trance;25;1;outdoor;null;56;Hövelhof;5;Germany;DE
+106;Senne Beach Festival;16;05-07-25;18;Techno;25;1;outdoor;null;56;Hövelhof;5;Germany;DE
+106;Senne Beach Festival;16;05-07-25;4;Electronic Dance Music (EDM);25;1;outdoor;null;56;Hövelhof;5;Germany;DE
+106;Senne Beach Festival;16;05-07-25;3;Electro;25;1;outdoor;null;56;Hövelhof;5;Germany;DE
+107;Shifted Festival;75;22-08-25;18;Techno;130;3;outdoor;null;119;Tutow;5;Germany;DE
+107;Shifted Festival;75;22-08-25;19;Trance;130;3;outdoor;null;119;Tutow;5;Germany;DE
+108;Skalar Festival;35;11-06-26;4;Electronic Dance Music (EDM);null;4;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+108;Skalar Festival;35;11-06-26;3;Electro;null;4;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+108;Skalar Festival;14;05-06-25;4;Electronic Dance Music (EDM);119;4;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+108;Skalar Festival;14;05-06-25;3;Electro;119;4;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+108;Skalar Festival;14;05-06-25;18;Techno;119;4;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+108;Skalar Festival;35;11-06-26;18;Techno;null;4;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+108;Skalar Festival;14;05-06-25;1;Art & culture;119;4;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+108;Skalar Festival;35;11-06-26;1;Art & culture;null;4;outdoor;null;31;Frankfurt (Oder);5;Germany;DE
+109;Snowbombing Festival;25;07-04-25;20;Dance;null;6;unknown;null;73;Mayrhofen;1;Austria;AT
+109;Snowbombing Festival;25;07-04-25;19;Trance;null;6;unknown;null;73;Mayrhofen;1;Austria;AT
+109;Snowbombing Festival;19;06-04-26;19;Trance;null;6;unknown;null;73;Mayrhofen;1;Austria;AT
+109;Snowbombing Festival;25;07-04-25;3;Electro;null;6;unknown;null;73;Mayrhofen;1;Austria;AT
+109;Snowbombing Festival;25;07-04-25;9;House;null;6;unknown;null;73;Mayrhofen;1;Austria;AT
+109;Snowbombing Festival;19;06-04-26;9;House;null;6;unknown;null;73;Mayrhofen;1;Austria;AT
+109;Snowbombing Festival;19;06-04-26;3;Electro;null;6;unknown;null;73;Mayrhofen;1;Austria;AT
+109;Snowbombing Festival;19;06-04-26;20;Dance;null;6;unknown;null;73;Mayrhofen;1;Austria;AT
+110;SonneMondSterne Festival;29;08-08-25;9;House;243;3;outdoor;null;104;Saalburg-Ebersdorf;5;Germany;DE
+110;SonneMondSterne Festival;29;08-08-25;3;Electro;243;3;outdoor;null;104;Saalburg-Ebersdorf;5;Germany;DE
+110;SonneMondSterne Festival;29;08-08-25;19;Trance;243;3;outdoor;null;104;Saalburg-Ebersdorf;5;Germany;DE
+110;SonneMondSterne Festival;29;08-08-25;20;Dance;243;3;outdoor;null;104;Saalburg-Ebersdorf;5;Germany;DE
+111;Sonnenbrand Festival;101;30-08-25;4;Electronic Dance Music (EDM);999;1;outdoor;null;64;Leverkusen;5;Germany;DE
+112;Sonus Festival;62;17-08-25;20;Dance;199;5;outdoor;null;85;Novalja;3;Croatia;HR
+112;Sonus Festival;62;17-08-25;19;Trance;199;5;outdoor;null;85;Novalja;3;Croatia;HR
+112;Sonus Festival;62;17-08-25;9;House;199;5;outdoor;null;85;Novalja;3;Croatia;HR
+112;Sonus Festival;62;17-08-25;3;Electro;199;5;outdoor;null;85;Novalja;3;Croatia;HR
+113;Spring Break Europe;14;05-06-25;9;House;69;5;outdoor;null;85;Novalja;3;Croatia;HR
+113;Spring Break Europe;14;05-06-25;4;Electronic Dance Music (EDM);69;5;outdoor;null;85;Novalja;3;Croatia;HR
+113;Spring Break Europe;5;03-06-26;9;House;79;6;outdoor;27000;85;Novalja;3;Croatia;HR
+113;Spring Break Europe;5;03-06-26;4;Electronic Dance Music (EDM);79;6;outdoor;27000;85;Novalja;3;Croatia;HR
+114;Sputnik Spring Break Festival;74;22-05-26;3;Electro;179;4;outdoor;27000;76;Mildestausee;5;Germany;DE
+114;Sputnik Spring Break Festival;74;22-05-26;20;Dance;179;4;outdoor;27000;76;Mildestausee;5;Germany;DE
+114;Sputnik Spring Break Festival;74;22-05-26;11;Pop;179;4;outdoor;27000;76;Mildestausee;5;Germany;DE
+114;Sputnik Spring Break Festival;20;06-06-25;7;Hardcore (Electro);166;4;outdoor;null;76;Mildestausee;5;Germany;DE
+114;Sputnik Spring Break Festival;74;22-05-26;8;Hip-Hop;179;4;outdoor;27000;76;Mildestausee;5;Germany;DE
+114;Sputnik Spring Break Festival;20;06-06-25;3;Electro;166;4;outdoor;null;76;Mildestausee;5;Germany;DE
+114;Sputnik Spring Break Festival;20;06-06-25;11;Pop;166;4;outdoor;null;76;Mildestausee;5;Germany;DE
+114;Sputnik Spring Break Festival;20;06-06-25;8;Hip-Hop;166;4;outdoor;null;76;Mildestausee;5;Germany;DE
+114;Sputnik Spring Break Festival;74;22-05-26;7;Hardcore (Electro);179;4;outdoor;27000;76;Mildestausee;5;Germany;DE
+114;Sputnik Spring Break Festival;20;06-06-25;20;Dance;166;4;outdoor;null;76;Mildestausee;5;Germany;DE
+115;Strandfieber Festival;101;30-08-25;3;Electro;399;1;outdoor;null;44;Goldenstedt;5;Germany;DE
+115;Strandfieber Festival;101;30-08-25;20;Dance;399;1;outdoor;null;44;Goldenstedt;5;Germany;DE
+115;Strandfieber Festival;101;30-08-25;9;House;399;1;outdoor;null;44;Goldenstedt;5;Germany;DE
+115;Strandfieber Festival;101;30-08-25;19;Trance;399;1;outdoor;null;44;Goldenstedt;5;Germany;DE
+116;Strandgut Festival;85;25-07-26;3;Electro;459;1;outdoor;5000;22;Eckernförde;5;Germany;DE
+116;Strandgut Festival;85;25-07-26;4;Electronic Dance Music (EDM);459;1;outdoor;5000;22;Eckernförde;5;Germany;DE
+116;Strandgut Festival;88;26-07-25;9;House;449;1;outdoor;null;22;Eckernförde;5;Germany;DE
+116;Strandgut Festival;88;26-07-25;4;Electronic Dance Music (EDM);449;1;outdoor;null;22;Eckernförde;5;Germany;DE
+116;Strandgut Festival;88;26-07-25;3;Electro;449;1;outdoor;null;22;Eckernförde;5;Germany;DE
+116;Strandgut Festival;85;25-07-26;9;House;459;1;outdoor;5000;22;Eckernförde;5;Germany;DE
+117;Subset Festival;42;12-07-25;3;Electro;59;2;outdoor;null;127;Wettingen;7;Switzerland;CH
+118;Summer Break Festival;69;19-07-26;3;Electro;25;2;outdoor;4000;43;Gießen;5;Germany;DE
+118;Summer Break Festival;69;19-07-26;8;Hip-Hop;25;2;outdoor;4000;43;Gießen;5;Germany;DE
+118;Summer Break Festival;69;19-07-26;20;Dance;25;2;outdoor;4000;43;Gießen;5;Germany;DE
+118;Summer Break Festival;69;19-07-26;4;Electronic Dance Music (EDM);25;2;outdoor;4000;43;Gießen;5;Germany;DE
+118;Summer Break Festival;36;11-07-25;11;Pop;35;2;outdoor;null;43;Gießen;5;Germany;DE
+118;Summer Break Festival;36;11-07-25;20;Dance;35;2;outdoor;null;43;Gießen;5;Germany;DE
+118;Summer Break Festival;69;19-07-26;11;Pop;25;2;outdoor;4000;43;Gießen;5;Germany;DE
+118;Summer Break Festival;36;11-07-25;8;Hip-Hop;35;2;outdoor;null;43;Gießen;5;Germany;DE
+118;Summer Break Festival;36;11-07-25;4;Electronic Dance Music (EDM);35;2;outdoor;null;43;Gießen;5;Germany;DE
+118;Summer Break Festival;36;11-07-25;3;Electro;35;2;outdoor;null;43;Gießen;5;Germany;DE
+119;Summer Dream Festival;2;01-08-25;5;Goa;null;3;outdoor;null;8;Blievenstorf;5;Germany;DE
+119;Summer Dream Festival;2;01-08-25;3;Electro;null;3;outdoor;null;8;Blievenstorf;5;Germany;DE
+120;Summer Sensation Beachfestival;16;05-07-25;20;Dance;15;1;outdoor;null;102;Rotenburg (Wümme);5;Germany;DE
+120;Summer Sensation Beachfestival;16;05-07-25;9;House;15;1;outdoor;null;102;Rotenburg (Wümme);5;Germany;DE
+120;Summer Sensation Beachfestival;16;05-07-25;3;Electro;15;1;outdoor;null;102;Rotenburg (Wümme);5;Germany;DE
+121;Sun Swing Festival;42;12-07-25;4;Electronic Dance Music (EDM);17;1;outdoor;null;50;Harsewinkel;5;Germany;DE
+121;Sun Swing Festival;42;12-07-25;3;Electro;17;1;outdoor;null;50;Harsewinkel;5;Germany;DE
+121;Sun Swing Festival;37;11-07-26;4;Electronic Dance Music (EDM);19;1;outdoor;3000;50;Harsewinkel;5;Germany;DE
+121;Sun Swing Festival;37;11-07-26;3;Electro;19;1;outdoor;3000;50;Harsewinkel;5;Germany;DE
+122;SunIce Festival;66;19-03-26;4;Electronic Dance Music (EDM);215;4;indoor;20000;112;St. Moritz;7;Switzerland;CH
+122;SunIce Festival;59;17-04-25;18;Techno;255;4;indoor;null;112;St. Moritz;7;Switzerland;CH
+122;SunIce Festival;59;17-04-25;4;Electronic Dance Music (EDM);255;4;indoor;null;112;St. Moritz;7;Switzerland;CH
+122;SunIce Festival;66;19-03-26;18;Techno;215;4;indoor;20000;112;St. Moritz;7;Switzerland;CH
+123;Supremacy - Germany Decoded;54;15-02-25;7;Hardcore (Electro);77;1;indoor;null;19;Dortmund;5;Germany;DE
+123;Supremacy - Germany Decoded;54;15-02-25;3;Electro;77;1;indoor;null;19;Dortmund;5;Germany;DE
+123;Supremacy - Germany Decoded;92;28-02-26;7;Hardcore (Electro);null;1;indoor;null;19;Dortmund;5;Germany;DE
+123;Supremacy - Germany Decoded;92;28-02-26;3;Electro;null;1;indoor;null;19;Dortmund;5;Germany;DE
+124;Syndicate Festival;13;04-10-25;7;Hardcore (Electro);null;1;indoor;null;19;Dortmund;5;Germany;DE
+125;Tag am Meer Festival;64;18-07-25;3;Electro;771;2;outdoor;null;98;Prora;5;Germany;DE
+125;Tag am Meer Festival;64;18-07-25;19;Trance;771;2;outdoor;null;98;Prora;5;Germany;DE
+125;Tag am Meer Festival;64;18-07-25;9;House;771;2;outdoor;null;98;Prora;5;Germany;DE
+126;Tante Mia Tanzt Festival;49;14-05-26;20;Dance;499;1;outdoor;30000;120;Vechta;5;Germany;DE
+126;Tante Mia Tanzt Festival;49;14-05-26;19;Trance;499;1;outdoor;30000;120;Vechta;5;Germany;DE
+126;Tante Mia Tanzt Festival;49;14-05-26;7;Hardcore (Electro);499;1;outdoor;30000;120;Vechta;5;Germany;DE
+126;Tante Mia Tanzt Festival;49;14-05-26;3;Electro;499;1;outdoor;30000;120;Vechta;5;Germany;DE
+126;Tante Mia Tanzt Festival;95;29-05-25;19;Trance;449;1;outdoor;null;120;Vechta;5;Germany;DE
+126;Tante Mia Tanzt Festival;95;29-05-25;7;Hardcore (Electro);449;1;outdoor;null;120;Vechta;5;Germany;DE
+126;Tante Mia Tanzt Festival;95;29-05-25;3;Electro;449;1;outdoor;null;120;Vechta;5;Germany;DE
+126;Tante Mia Tanzt Festival;95;29-05-25;20;Dance;449;1;outdoor;null;120;Vechta;5;Germany;DE
+127;Tanz der Bässe Festival;42;12-07-25;3;Electro;436;1;outdoor;null;61;Lampertheim;5;Germany;DE
+127;Tanz der Bässe Festival;42;12-07-25;20;Dance;436;1;outdoor;null;61;Lampertheim;5;Germany;DE
+127;Tanz der Bässe Festival;37;11-07-26;3;Electro;436;1;outdoor;5000;61;Lampertheim;5;Germany;DE
+127;Tanz der Bässe Festival;37;11-07-26;20;Dance;436;1;outdoor;5000;61;Lampertheim;5;Germany;DE
+128;Tanzinsel Open Air;78;23-08-25;4;Electronic Dance Music (EDM);34;1;outdoor;null;40;Gemünden;5;Germany;DE
+129;Tarmac Festival;12;04-09-25;2;Disco;190;4;outdoor;null;1;Allstedt;5;Germany;DE
+129;Tarmac Festival;12;04-09-25;3;Electro;190;4;outdoor;null;1;Allstedt;5;Germany;DE
+129;Tarmac Festival;12;04-09-25;9;House;190;4;outdoor;null;1;Allstedt;5;Germany;DE
+129;Tarmac Festival;12;04-09-25;5;Goa;190;4;outdoor;null;1;Allstedt;5;Germany;DE
+130;Tomorrowland Festival;64;18-07-25;19;Trance;null;10;outdoor;null;10;Boom;2;Belgium;BE
+130;Tomorrowland Festival;64;18-07-25;3;Electro;null;10;outdoor;null;10;Boom;2;Belgium;BE
+130;Tomorrowland Festival;64;18-07-25;20;Dance;null;10;outdoor;null;10;Boom;2;Belgium;BE
+131;Toxicator Festival;24;06-12-25;18;Techno;69;1;indoor;null;71;Mannheim;5;Germany;DE
+131;Toxicator Festival;24;06-12-25;3;Electro;69;1;indoor;null;71;Mannheim;5;Germany;DE
+132;Trikaya Festival – The Transition;73;21-08-25;4;Electronic Dance Music (EDM);168;4;outdoor;null;78;München;5;Germany;DE
+132;Trikaya Festival – The Transition;73;21-08-25;3;Electro;168;4;outdoor;null;78;München;5;Germany;DE
+132;Trikaya Festival – The Transition;73;21-08-25;5;Goa;168;4;outdoor;null;78;München;5;Germany;DE
+132;Trikaya Festival – The Transition;73;21-08-25;19;Trance;168;4;outdoor;null;78;München;5;Germany;DE
+133;Tropical Mountain Festival;77;23-05-26;3;Electro;419;1;outdoor;15000;62;Landsweiler-Reden;5;Germany;DE
+133;Tropical Mountain Festival;77;23-05-26;20;Dance;419;1;outdoor;15000;62;Landsweiler-Reden;5;Germany;DE
+133;Tropical Mountain Festival;77;23-05-26;9;House;419;1;outdoor;15000;62;Landsweiler-Reden;5;Germany;DE
+133;Tropical Mountain Festival;77;23-05-26;19;Trance;419;1;outdoor;15000;62;Landsweiler-Reden;5;Germany;DE
+133;Tropical Mountain Festival;26;07-06-25;19;Trance;589;1;outdoor;null;62;Landsweiler-Reden;5;Germany;DE
+133;Tropical Mountain Festival;26;07-06-25;9;House;589;1;outdoor;null;62;Landsweiler-Reden;5;Germany;DE
+133;Tropical Mountain Festival;26;07-06-25;3;Electro;589;1;outdoor;null;62;Landsweiler-Reden;5;Germany;DE
+133;Tropical Mountain Festival;26;07-06-25;20;Dance;589;1;outdoor;null;62;Landsweiler-Reden;5;Germany;DE
+134;Ultra Europe Festival;34;10-07-26;20;Dance;179;3;outdoor;150000;111;Split;3;Croatia;HR
+134;Ultra Europe Festival;34;10-07-26;9;House;179;3;outdoor;150000;111;Split;3;Croatia;HR
+134;Ultra Europe Festival;36;11-07-25;4;Electronic Dance Music (EDM);159;3;outdoor;null;111;Split;3;Croatia;HR
+134;Ultra Europe Festival;34;10-07-26;7;Hardcore (Electro);179;3;outdoor;150000;111;Split;3;Croatia;HR
+134;Ultra Europe Festival;36;11-07-25;19;Trance;159;3;outdoor;null;111;Split;3;Croatia;HR
+134;Ultra Europe Festival;36;11-07-25;9;House;159;3;outdoor;null;111;Split;3;Croatia;HR
+134;Ultra Europe Festival;36;11-07-25;7;Hardcore (Electro);159;3;outdoor;null;111;Split;3;Croatia;HR
+134;Ultra Europe Festival;34;10-07-26;4;Electronic Dance Music (EDM);179;3;outdoor;150000;111;Split;3;Croatia;HR
+134;Ultra Europe Festival;34;10-07-26;19;Trance;179;3;outdoor;150000;111;Split;3;Croatia;HR
+134;Ultra Europe Festival;36;11-07-25;3;Electro;159;3;outdoor;null;111;Split;3;Croatia;HR
+134;Ultra Europe Festival;36;11-07-25;20;Dance;159;3;outdoor;null;111;Split;3;Croatia;HR
+134;Ultra Europe Festival;34;10-07-26;3;Electro;179;3;outdoor;150000;111;Split;3;Croatia;HR
+135;Vogelball Festival;4;02-08-25;3;Electro;45;1;outdoor;null;47;Hamburg;5;Germany;DE
+135;Vogelball Festival;4;02-08-25;4;Electronic Dance Music (EDM);45;1;outdoor;null;47;Hamburg;5;Germany;DE
+135;Vogelball Festival;4;02-08-25;19;Trance;45;1;outdoor;null;47;Hamburg;5;Germany;DE
+136;Volume X Kragelund Festival;67;19-06-26;3;Electro;75;3;outdoor;3000;121;Viöl;5;Germany;DE
+136;Volume X Kragelund Festival;67;19-06-26;5;Goa;75;3;outdoor;3000;121;Viöl;5;Germany;DE
+136;Volume X Kragelund Festival;70;20-06-25;3;Electro;65;3;outdoor;null;121;Viöl;5;Germany;DE
+136;Volume X Kragelund Festival;67;19-06-26;19;Trance;75;3;outdoor;3000;121;Viöl;5;Germany;DE
+136;Volume X Kragelund Festival;67;19-06-26;7;Hardcore (Electro);75;3;outdoor;3000;121;Viöl;5;Germany;DE
+136;Volume X Kragelund Festival;70;20-06-25;19;Trance;65;3;outdoor;null;121;Viöl;5;Germany;DE
+136;Volume X Kragelund Festival;70;20-06-25;7;Hardcore (Electro);65;3;outdoor;null;121;Viöl;5;Germany;DE
+136;Volume X Kragelund Festival;70;20-06-25;5;Goa;65;3;outdoor;null;121;Viöl;5;Germany;DE
+137;Voov Experience Festival;64;18-07-25;5;Goa;135;4;outdoor;null;99;Putlitz;5;Germany;DE
+137;Voov Experience Festival;61;17-07-26;5;Goa;155;4;outdoor;5000;99;Putlitz;5;Germany;DE
+138;Waikiki Open Air;17;05-09-25;9;House;799;2;outdoor;null;16;Dinslaken;5;Germany;DE
+138;Waikiki Open Air;17;05-09-25;4;Electronic Dance Music (EDM);799;2;outdoor;null;16;Dinslaken;5;Germany;DE
+138;Waikiki Open Air;17;05-09-25;3;Electro;799;2;outdoor;null;16;Dinslaken;5;Germany;DE
+138;Waikiki Open Air;17;05-09-25;20;Dance;799;2;outdoor;null;16;Dinslaken;5;Germany;DE
+139;Waldfrieden Wonderland Festival;27;07-08-25;17;Sports;null;4;outdoor;null;114;Stemwede / Wehdem;5;Germany;DE
+139;Waldfrieden Wonderland Festival;27;07-08-25;5;Goa;null;4;outdoor;null;114;Stemwede / Wehdem;5;Germany;DE
+139;Waldfrieden Wonderland Festival;27;07-08-25;3;Electro;null;4;outdoor;null;114;Stemwede / Wehdem;5;Germany;DE
+139;Waldfrieden Wonderland Festival;27;07-08-25;1;Art & culture;null;4;outdoor;null;114;Stemwede / Wehdem;5;Germany;DE
+140;Waves Open Air;50;14-06-25;18;Techno;null;1;outdoor;null;123;Wedemark;5;Germany;DE
+140;Waves Open Air;47;13-06-26;19;Trance;null;1;outdoor;8000;123;Wedemark;5;Germany;DE
+140;Waves Open Air;47;13-06-26;18;Techno;null;1;outdoor;8000;123;Wedemark;5;Germany;DE
+140;Waves Open Air;50;14-06-25;19;Trance;null;1;outdoor;null;123;Wedemark;5;Germany;DE
+141;Waves Open Air Closing;23;06-09-25;18;Techno;449;1;outdoor;null;123;Wedemark;5;Germany;DE
+141;Waves Open Air Closing;23;06-09-25;19;Trance;449;1;outdoor;null;123;Wedemark;5;Germany;DE
+142;Welcome To My Garden Festival;32;09-08-25;3;Electro;45;1;outdoor;null;48;Hamm;5;Germany;DE
+142;Welcome To My Garden Festival;32;09-08-25;20;Dance;45;1;outdoor;null;48;Hamm;5;Germany;DE
+142;Welcome To My Garden Festival;32;09-08-25;19;Trance;45;1;outdoor;null;48;Hamm;5;Germany;DE
+142;Welcome To My Garden Festival;32;09-08-25;18;Techno;45;1;outdoor;null;48;Hamm;5;Germany;DE
+142;Welcome To My Garden Festival;32;09-08-25;9;House;45;1;outdoor;null;48;Hamm;5;Germany;DE
+142;Welcome To My Garden Festival;32;09-08-25;4;Electronic Dance Music (EDM);45;1;outdoor;null;48;Hamm;5;Germany;DE
+143;Widefield Open Air;32;09-08-25;18;Techno;241;1;outdoor;null;79;Münster;5;Germany;DE
+144;Wild & Free Weekend;63;18-06-25;4;Electronic Dance Music (EDM);null;3;outdoor;null;85;Novalja;3;Croatia;HR
+144;Wild & Free Weekend;63;18-06-25;3;Electro;null;3;outdoor;null;85;Novalja;3;Croatia;HR
+144;Wild & Free Weekend;35;11-06-26;4;Electronic Dance Music (EDM);null;4;outdoor;null;85;Novalja;3;Croatia;HR
+144;Wild & Free Weekend;35;11-06-26;3;Electro;null;4;outdoor;null;85;Novalja;3;Croatia;HR
+145;Wild Woods Festival;29;08-08-25;8;Hip-Hop;25;3;outdoor;null;24;Ellingen;5;Germany;DE
+145;Wild Woods Festival;29;08-08-25;7;Hardcore (Electro);25;3;outdoor;null;24;Ellingen;5;Germany;DE
+145;Wild Woods Festival;29;08-08-25;9;House;25;3;outdoor;null;24;Ellingen;5;Germany;DE
+145;Wild Woods Festival;29;08-08-25;4;Electronic Dance Music (EDM);25;3;outdoor;null;24;Ellingen;5;Germany;DE
+145;Wild Woods Festival;29;08-08-25;19;Trance;25;3;outdoor;null;24;Ellingen;5;Germany;DE
+145;Wild Woods Festival;29;08-08-25;18;Techno;25;3;outdoor;null;24;Ellingen;5;Germany;DE
+145;Wild Woods Festival;29;08-08-25;11;Pop;25;3;outdoor;null;24;Ellingen;5;Germany;DE
+145;Wild Woods Festival;29;08-08-25;20;Dance;25;3;outdoor;null;24;Ellingen;5;Germany;DE
+146;Wilde Möhre Festival;75;22-08-25;3;Electro;159;4;outdoor;null;20;Drebkau;5;Germany;DE
+146;Wilde Möhre Festival;75;22-08-25;20;Dance;159;4;outdoor;null;20;Drebkau;5;Germany;DE
+146;Wilde Möhre Festival;75;22-08-25;4;Electronic Dance Music (EDM);159;4;outdoor;null;20;Drebkau;5;Germany;DE
+146;Wilde Möhre Festival;75;22-08-25;9;House;159;4;outdoor;null;20;Drebkau;5;Germany;DE
+146;Wilde Möhre Festival;75;22-08-25;13;Reading;159;4;outdoor;null;20;Drebkau;5;Germany;DE
+146;Wilde Möhre Festival;75;22-08-25;1;Art & culture;159;4;outdoor;null;20;Drebkau;5;Germany;DE
+147;World Club Dome;15;05-06-26;20;Dance;120;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;15;05-06-26;4;Electronic Dance Music (EDM);120;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;15;05-06-26;3;Electro;120;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;20;06-06-25;20;Dance;379;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;20;06-06-25;19;Trance;379;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;15;05-06-26;9;House;120;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;20;06-06-25;18;Techno;379;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;20;06-06-25;7;Hardcore (Electro);379;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;20;06-06-25;4;Electronic Dance Music (EDM);379;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;20;06-06-25;3;Electro;379;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;15;05-06-26;8;Hip-Hop;120;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;15;05-06-26;18;Techno;120;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;15;05-06-26;11;Pop;120;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+147;World Club Dome;15;05-06-26;7;Hardcore (Electro);120;3;outdoor;null;32;Frankfurt am Main;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;14;05-06-25;19;Trance;159;4;outdoor;null;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;14;05-06-25;15;Rock;159;4;outdoor;null;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;14;05-06-25;1;Art & culture;159;4;outdoor;null;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;14;05-06-25;9;House;159;4;outdoor;null;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;14;05-06-25;5;Goa;159;4;outdoor;null;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;14;05-06-25;14;Reggae;159;4;outdoor;null;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;14;05-06-25;3;Electro;159;4;outdoor;null;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;14;05-06-25;2;Disco;159;4;outdoor;null;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;8;04-06-26;19;Trance;190;4;outdoor;10000;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;8;04-06-26;15;Rock;190;4;outdoor;10000;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;8;04-06-26;14;Reggae;190;4;outdoor;10000;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;8;04-06-26;1;Art & culture;190;4;outdoor;10000;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;8;04-06-26;9;House;190;4;outdoor;10000;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;8;04-06-26;5;Goa;190;4;outdoor;10000;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;8;04-06-26;3;Electro;190;4;outdoor;10000;84;Niedergörsdorf;5;Germany;DE
+148;Zurück zu den Wurzeln Festival;8;04-06-26;2;Disco;190;4;outdoor;10000;84;Niedergörsdorf;5;Germany;DE
