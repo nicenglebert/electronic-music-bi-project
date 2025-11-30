@@ -1,5 +1,11 @@
 # Electronic Music Business Intelligence Project 🎧📊
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![ETL](https://img.shields.io/badge/Process-ETL-blue)
+![Data Warehouse](https://img.shields.io/badge/Model-Star%20Schema-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+
 A complete **Business Intelligence project** analyzing electronic music trends using Spotify data and European festival datasets.  
 This project demonstrates a full **data pipeline** from raw CSV data to interactive dashboards using Power BI and dimensional modeling.
 
@@ -149,5 +155,6 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
