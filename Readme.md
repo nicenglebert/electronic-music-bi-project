@@ -102,17 +102,14 @@ electronic-music-bi-project/
 ## 📊 Dashboards Preview
 
 ### Executive Summary
-![Executive Summary](screenshots/Executive_Summary.PNG) 
+![Executive Summary](https://raw.githubusercontent.com/nicenglebert/electronic-music-bi-project/main/screenshots/Executive_Summary.PNG)
 
 ### Festivals Analytics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nicenglebert/electronic-music-bi-project/main/screenshots/Festivals_KPI_Dashboard.PNG">
-</p>
+![Festivals Dashboard](https://raw.githubusercontent.com/nicenglebert/electronic-music-bi-project/main/screenshots/Festivals_KPI_Dashboard.PNG)
 
 ### Spotify Analytics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nicenglebert/electronic-music-bi-project/main/screenshots/Spotify_KPI_Dashboard.PNG">
-</p>
+![Spotify Dashboard](https://raw.githubusercontent.com/nicenglebert/electronic-music-bi-project/main/screenshots/Spotify_KPI_Dashboard.PNG)
+
 
 ## Key Insights
 
@@ -194,6 +191,7 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
 
