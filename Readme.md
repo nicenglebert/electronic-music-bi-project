@@ -79,7 +79,7 @@ electronic-music-bi-project/
 ├── Methodology.md
 └── BI_Architecture.PNG
 
-
+```
 ---
 
 ## Key Dashboards
@@ -195,6 +195,7 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
 
