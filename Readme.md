@@ -83,7 +83,6 @@ electronic-music-bi-project/
 ---
 
 ## Key Dashboards
-...
 
 ### Spotify Analytics
 - Popularity by genre
@@ -195,6 +194,7 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
 
