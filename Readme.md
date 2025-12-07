@@ -80,7 +80,6 @@ electronic-music-bi-project/
 └── BI_Architecture.PNG
 
 
-
 ---
 
 ## 📊 Key Dashboards
@@ -103,8 +102,7 @@ electronic-music-bi-project/
 ## 📊 Dashboards Preview
 
 ### Executive Summary
-<img width="1920" height="1047" alt="image" src="https://github.com/user-attachments/assets/c1914435-23da-4fdb-ba1b-9114eaf0ed15" />
-
+![Executive Summary](screenshots/Executive_Summary.PNG) 
 
 ### Festivals Analytics
 <p align="center">
@@ -196,6 +194,7 @@ All datasets are used for **educational and portfolio purposes only**.
 Music data belongs to respective rights holders.
 
 ---
+
 
 
 
